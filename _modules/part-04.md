@@ -33,9 +33,9 @@ Mar 7
 : **Charrette Day 2** <br>
 *Details will be provided to you.* <br>
 
-Mar 9
-: **Charrette Replacement (No Class)** <br>
-*Class hours fulfilled during the charrette*
+Mar 9  
+: <span style="color: #777777;"><strong>Charrette Replacement (No Class)</strong><br>
+<em>Class hours fulfilled during the charrette</em></span>
 
 Mar 11
 : **Charrette Replacement (No Class)** <br>
