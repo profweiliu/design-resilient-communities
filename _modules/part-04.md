@@ -1,87 +1,69 @@
 ---
-title: Module 4 - Design Progress
+title: Module 3 - Charrette
 ---
-<h3 style="text-align: left; font-weight: bold;">IV - Design Progress</h3> 
+<h3 style="text-align: left; font-weight: bold;">IV - Collaborative Design</h3> 
 
-Mar 30
-: **Topic** <br>
+
+
+Feb 23
+: **Understanding the Project Context** <br>
 *In this class, students will be introduced the concept of multimodal corridors and to the final project study site. Students will conduct a virtual environmental audit to evaluate existing corridor conditions, including mobility, land use, safety, and surrounding context. Based on this audit, students will develop a concise context summary that identifies key opportunities, constraints, and questions to inform subsequent design work.* <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
 
-Apr 1
-: **Topic** <br>
+Feb 25
+: **Base Maps** <br>
 : **Lab**{: .label .label-blue } <br>
 
-Apr 3
-: **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
-
-Apr 6
-: **Topic** <br>
-*In this class, students will be introduced the concept of multimodal corridors and to the final project study site. Students will conduct a virtual environmental audit to evaluate existing corridor conditions, including mobility, land use, safety, and surrounding context. Based on this audit, students will develop a concise context summary that identifies key opportunities, constraints, and questions to inform subsequent design work.* <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
-
-Apr 8
-: **Topic** <br>
+Feb 27
+: **Base Maps** <br>
 : **Lab**{: .label .label-blue } <br>
 
-Apr 10
-: **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+Mar 2
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
-Apr 139
-: **Topic** <br>
-: **ASSIGNMENT 3 DUE AT NOON**{: .label .label-red } <br>
-*In this class, students will be introduced the concept of multimodal corridors and to the final project study site. Students will conduct a virtual environmental audit to evaluate existing corridor conditions, including mobility, land use, safety, and surrounding context. Based on this audit, students will develop a concise context summary that identifies key opportunities, constraints, and questions to inform subsequent design work.* <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
+Mar 4
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
-Apr 15
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+Mar 6
+: **Charrette Day 1** <br>
+*Details will be provided to you.* <br>
 
-Apr 17
-: **Topic** <br>
-: **AResilient Cities Student Presentations**{: .label .label-stone } <br>
+Mar 7
+: **Charrette Day 2** <br>
+*Details will be provided to you.* <br>
 
-Apr 20
-: **Topic** <br>
-*In this class, students will be introduced the concept of multimodal corridors and to the final project study site. Students will conduct a virtual environmental audit to evaluate existing corridor conditions, including mobility, land use, safety, and surrounding context. Based on this audit, students will develop a concise context summary that identifies key opportunities, constraints, and questions to inform subsequent design work.* <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
+Mar 9
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
-Apr 22
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+Mar 11
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
-Apr 24
-: **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+Mar 13
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
-Apr 27
-: **Topic** <br>
-*In this class, students will be introduced the concept of multimodal corridors and to the final project study site. Students will conduct a virtual environmental audit to evaluate existing corridor conditions, including mobility, land use, safety, and surrounding context. Based on this audit, students will develop a concise context summary that identifies key opportunities, constraints, and questions to inform subsequent design work.* <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
+Mar 16
+: **Spring Break (No Class)** <br>
 
-Apr 29
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+Mar 17
+: **Spring Break (No Class)** <br>
 
-May 1
-: **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+Mar 20
+: **Spring Break (No Class)** <br>
 
-May 7
-: **Final Project Presentation** <br> 
-    <!--: [Project Presentation Instruction]({{ site.baseurl }}/projects/#draft-work-presentation)-->
-**Final Project Presentation DUE 8 AM**{: .label .label-red } <br> 
+Mar 23
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
-May 11
-: **Final Project Submission** <br>
-    <!--: [Project Submission Instruction]({{ site.baseurl }}/projects/#final-delivery)-->
-: **Final Project DUE 11:59 PM**{: .label .label-red } <br> 
-*Wei Liu is out for the Congress for the New Urbanism Annual Conference (May 13-16).* <br> 
+Mar 25
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
+Mar 27
+: **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
