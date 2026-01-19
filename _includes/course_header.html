@@ -1,0 +1,106 @@
+<!-- _includes/course_header.html -->
+<a id="top"></a>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="https://kit.fontawesome.com/2995c029d1.js" crossorigin="anonymous"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+    const dtList = Array.from(document.querySelectorAll("dt"));
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+
+    function parseDate(str) {
+      const match = str.match(/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\w*\s+(\d{1,2})/i);
+      if (!match) return null;
+      const month = match[1].slice(0,3);
+      const day = match[2];
+      const year = now.getFullYear();
+      return new Date(`${month} ${day}, ${year}`);
+    }
+    let minDiff = Infinity, nextElem = null;
+    dtList.forEach(dt => {
+      const text = dt.textContent.trim();
+      const d = parseDate(text);
+      if (d) {
+        const diff = d - today;
+        if (diff >= 0 && diff < minDiff) {
+          minDiff = diff;
+          nextElem = dt;
+        }
+      }
+    });
+    if (nextElem) nextElem.classList.add("current");
+        nextElem.id = "recent";
+  });
+  </script>
+   <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Data Analytics and Visualization",
+    "description": "Course Website for RE 519 Data Analytics and Visualization at University of Washington.",
+    "url": "https://www.yuehaoyu.com/data-analytics-visualization/",
+    "provider": {
+      "@type": "Organization",
+      "name": "University of Washington",
+      "url": "https://www.washington.edu"
+    },
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/OutOfStock",
+      "url": "https://www.yuehaoyu.com/data-analytics-visualization/"
+    },
+    "hasCourseInstance": [{
+      "@type": "CourseInstance",
+      "courseMode": "InPerson",
+      "startDate": "2025-09-25",
+      "endDate": "2025-12-10",
+      "location": {
+        "@type": "Place",
+        "name": "Gould Hall"
+      }
+    }]
+  }
+  </script>
+  <!-- Open Graph -->
+  <meta property="og:image" content="{{ '/assets/images/social.png' | relative_url }}">
+  <meta name="twitter:image" content="{{ '/assets/images/social.png' | relative_url }}">
+</head>
+
+<img id="cover" alt="cover image" src="{{ site.baseurl }}/assets/images/cover_image.png">
+<script>
+  (function () {
+    var covers = [
+      'cover_image_1.png',
+      'cover_image_2.png',
+      'cover_image_3.png',
+      'cover_image_4.png',
+      'cover_image_5.png',
+      'cover_image.png'
+    ];
+    var pick = covers[Math.floor(Math.random() * covers.length)];
+    document.getElementById('cover').src = '{{ site.baseurl }}/assets/images/' + pick;
+  })();
+</script>
+
+### Environmental Design Capstone 
+{:.no_toc .fs-7 .fw-650 .lh-tight}
+
+EnD 4993, University of Oklahoma Gibbs College of Architecture, Spring 2026 <br>
+Monday, Wednesday, & Friday 11:00 - 11:50pm, [Gould Hall 390](https://architecture.ou.edu/third-floor/)<br>
+[Dr. Wei Liu, AICP, CNU-A (Instructor)](https://www.profweiliu.com/), [wliu@ou.edu](mailto:wliu@ou.edu) <br>
+Office Hours: Mondays 2 – 3 PM at Gould Hall 245L or remotely by Zoom, request by email 
+
+<div class="link-row">
+  <a href="{{ site.baseurl }}/">Home</a>
+  <a href="{{ site.baseurl }}/syllabus">Syllabus</a>
+  <a href="https://canvas.ou.edu/courses/467418">Canvas</a>
+</div>
+
+---
+
+
+{% raw %}
+<script type="module" src="{{ '/assets/js/chatbot.js' | relative_url }}"></script>
+{% endraw %}
+
