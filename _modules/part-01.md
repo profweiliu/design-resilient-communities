@@ -9,7 +9,7 @@ Jan 19
 : **M.L.K. Day (No Class)** <br>
 
 Jan 21
-: **Course Overview and Expectation** <br>
+: **Course Introduction and Expectation** <br>
 
 Jan 23
 : **Project Introduction, and Group Formation** <br>
