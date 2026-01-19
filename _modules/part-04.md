@@ -6,17 +6,17 @@ title: Module 3 - Collaborative Design
 
 
 Feb 23
-: **Understanding the Project Context** <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
+: **Public Participation & Charrette** <br>
+: **REQUIRED**{: .readings .readings-required}[TBD](TBD){: .citation}  <br>
+: **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Feb 25
-: **Base Maps** <br>
-: **Lab**{: .label .label-blue } <br>
+: **Understanding the Project** <br>
+: **REQUIRED**{: .readings .readings-required}[Durant Market Square Proposal](TBD){: .citation}  <br>
+: **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Feb 27
-: **Base Maps** <br>
-: **Lab**{: .label .label-blue } <br>
+: **Site Analysis** <br>
 
 Mar 2
 : **Charrette Replacement (No Class)** <br>
