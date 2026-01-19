@@ -1,5 +1,5 @@
 ---
-title: Module 4 - Design Progress
+title: Module 5 - Applying Resilience Thinking
 ---
 <h3 style="text-align: left; font-weight: bold;">V - Applying Resilience Thinking</h3> 
 
@@ -14,7 +14,7 @@ Apr 1
 
 Apr 3
 : **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+: **Resilient Cities Student Presentations #5**{: .label .label-stone } <br>
 
 Apr 6
 : **Social Resilience** <br>
@@ -27,7 +27,7 @@ Apr 8
 
 Apr 10
 : **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+: **Resilient Cities Student Presentations #6**{: .label .label-stone } <br>
 
 Apr 13
 : **Resilient Design** <br>
@@ -41,7 +41,7 @@ Apr 15
 
 Apr 17
 : **Topic** <br>
-: **AResilient Cities Student Presentations**{: .label .label-stone } <br>
+: **AResilient Cities Student Presentations #7**{: .label .label-stone } <br>
 
 Apr 20
 : **Review** <br>
@@ -54,7 +54,7 @@ Apr 22
 
 Apr 24
 : **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+: **Resilient Cities Student Presentations #8**{: .label .label-stone } <br>
 
 Apr 27
 : **Review** <br>
