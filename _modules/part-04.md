@@ -6,17 +6,17 @@ title: Module 3 - Collaborative Design
 
 
 Feb 23
-: **Public Participation & Charrette** <br>
+: **Lecture: Public Participation & Charrette** <br>
 : **REQUIRED**{: .readings .readings-required}[TBD](TBD){: .citation}  <br>
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Feb 25
-: **Synthesize Findings** <br>
+: **Lab 5: Synthesize Findings** <br>
 : **REQUIRED**{: .readings .readings-required}[Durant Market Square Proposal](TBD){: .citation}  <br>
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Feb 27
-: **Review & Discussion** <br>
+: **Lab 6: Review & Discussion** <br>
 
 Mar 2
 : **Charrette Replacement (No Class)** <br>

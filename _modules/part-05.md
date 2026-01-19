@@ -4,12 +4,12 @@ title: Module 5 - Adaptation
 <h3 style="text-align: left; font-weight: bold;">V - Adaptation</h3> 
 
 Mar 30
-: **Designing for Climate Impacts** <br>
+: **Lecture: Designing for Climate Impacts** <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 4 and 5. Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 1
-: **Group Work** <br>
+: **Lab 7: Group Work** <br>
 
 Apr 3
 : **Resilient Cities Series #5** <br>
@@ -19,12 +19,12 @@ Apr 3
 
 
 Apr 6
-: **Social & Community Resilience** <br>
+: **Lecture: Social & Community Resilience** <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 3. Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 8
-: **Group Work** <br>
+: **Lab 8: Group Work** <br>
 
 Apr 10
 : **Resilient Cities Series #6** <br>
@@ -38,7 +38,7 @@ Apr 13
 *Wei Liu is out for 2026 Main Street Now Conference (April 13-15).* <br>
 
 Apr 15
-: **Group Work** <br>
+: **Lab 9: Group Work** <br>
 
 Apr 17
 : **Resilient Cities Series #7** <br>

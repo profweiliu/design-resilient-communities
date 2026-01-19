@@ -5,30 +5,28 @@ title: Module 6 - Wrap Up
 
 
 Apr 20
-: **From Resilience to Transformation** <br>
+: **Lecture: From Resilience to Transformation** <br>
 : **REQUIRED**{: .readings .readings-required}[TBD.](hTBD){: .citation}  <br>
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 22
-: **Group Work** <br>
+: **Lab 10: Group Work** <br>
 
 Apr 24
-: **Topic** <br>
-: **Resilient Cities Student Presentations #8**{: .label .label-stone } <br>
+: **Lab 11: Group Work** <br>
 
 
 
 Apr 27
-: **Translating Resilience into Design Practice** <br>
+: **Lecture: Translating Resilience into Design Practice** <br>
 : **REQUIRED**{: .readings .readings-required}[TBD.](hTBD){: .citation}  <br>
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 29
-: **Group Work** <br>
+: **Lab 12: Group Work** <br>
 
 May 1
-: **Topic** <br>
-: **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+: **Lab 13: Group Work** <br>
 
 
 
