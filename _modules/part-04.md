@@ -12,8 +12,7 @@ Feb 23
 
 Feb 25
 : **Lab 5: Synthesize Findings** <br>
-: **REQUIRED**{: .readings .readings-required}[Durant Market Square Proposal](TBD){: .citation}  <br>
-: **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
+: **ASSIGNMENT DUE AT 29:59 PM**{: .label .label-red } <br>
 
 Feb 27
 : **Lab 6: Review & Discussion** <br>

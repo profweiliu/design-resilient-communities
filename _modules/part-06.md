@@ -24,6 +24,7 @@ Apr 27
 
 Apr 29
 : **Lab 12: Group Work** <br>
+: **ASSIGNMENT DUE AT 29:59 PM**{: .label .label-red } <br>
 
 May 1
 : **Lab 13: Group Work** <br>
@@ -41,5 +42,3 @@ May 11
 : **Final Project DUE 11:59 PM**{: .label .label-red } <br> 
 *Wei Liu is out for the Congress for the New Urbanism Annual Conference (May 13-16).* <br> 
 
-: **ASSIGNMENT 3 DUE AT NOON**{: .label .label-red } <br>
-: **Lab**{: .label .label-blue } <br>
