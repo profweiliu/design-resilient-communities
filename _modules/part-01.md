@@ -9,21 +9,9 @@ Jan 19
 : **M.L.K. Day (No Class)** <br>
 
 Jan 21
-: **Course Overview** <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
+: **Course Overview and Expectation** <br>
 
 Jan 23
-: **Introduction to the Project** <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
-
-
-
-
-
-
-
-
-
+: **Project Introduction, and Group Formation** <br>
+: **REQUIRED**{: .readings .readings-required}[Resilient Dallas](https://resilientcitiesnetwork.org/downloadable_resources/Network/Dallas-Resilience-Strategy-English.pdf){: .citation}  <br>
 
