@@ -13,8 +13,9 @@ Apr 1
 : **Lab**{: .label .label-blue } <br>
 
 Apr 3
-: **Topic** <br>
-: **Resilient Cities Student Presentations #5**{: .label .label-stone } <br>
+: **Resilient Cities Series #5** <br>
+: **Student Presentations**{: .label .label-stone } <br>
+*Student Names-Cities*
 
 
 
@@ -28,25 +29,24 @@ Apr 8
 : **Lab**{: .label .label-blue } <br>
 
 Apr 10
-: **Topic** <br>
-: **Resilient Cities Student Presentations #6**{: .label .label-stone } <br>
+: **Resilient Cities Series #6** <br>
+: **Student Presentations**{: .label .label-stone } <br>
+*Student Names-Cities*
 
 
 
 Apr 13
-: **WL OUT** <br>
-: **ASSIGNMENT 3 DUE AT NOON**{: .label .label-red } <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
-*Wei Liu is out for the Congress for the New Urbanism Annual Conference (April 13-15).* <br>
+: **WL Out (No Class)** <br>
+*Wei Liu is out for 2026 Main Street Now Conference (April 13-15).* <br>
 
 Apr 15
 : **Topic** <br>
 : **Lab**{: .label .label-blue } <br>
 
 Apr 17
-: **Topic** <br>
-: **AResilient Cities Student Presentations #7**{: .label .label-stone } <br>
+: **Resilient Cities Series #7** <br>
+: **Student Presentations**{: .label .label-stone } <br>
+*Student Names-Cities*
 
 
 
