@@ -4,8 +4,23 @@ title: Module 6 - Wrap Up
 <h3 style="text-align: left; font-weight: bold;">VI - Wrap Up</h3> 
 
 
+Apr 20
+: **From Resilience to Transformation** <br>
+: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
+**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
+
+Apr 22
+: **Topic** <br>
+: **Lab**{: .label .label-blue } <br>
+
+Apr 24
+: **Topic** <br>
+: **Resilient Cities Student Presentations #8**{: .label .label-stone } <br>
+
+
+
 Apr 27
-: **Review** <br>
+: **Translating Resilience into Design Practice** <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
 
@@ -16,6 +31,8 @@ Apr 29
 May 1
 : **Topic** <br>
 : **Resilient Cities Student Presentations**{: .label .label-stone } <br>
+
+
 
 May 7
 : **Final Project Presentation** <br> 
