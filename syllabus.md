@@ -24,27 +24,11 @@ description: Syllabus.
 {% endfor %}
 
 ## Overview
-Urban and rural communities alike are facing increasing challenges related to mobility, safety, and equitable access to opportunity. Aging transportation infrastructure, auto-oriented development patterns, and changing demographic and economic conditions have intensified the need for more integrated, context-sensitive approaches to corridor design. Multimodal corridors and complete streets have emerged as critical frameworks for rethinking how transportation systems can support community health, environmental sustainability, and long-term economic vitality. As these challenges become more complex, designers are increasingly called upon to work collaboratively, engage communities directly, and translate interdisciplinary knowledge into actionable, real-world solutions. 
-
-This course is a 3-credit Environmental Design Capstone Studio focused on the planning and design of multimodal corridors and complete streets as critical infrastructure for community health, mobility, and economic vitality. Framed as a studio-based learning experience, the course integrates conceptual foundations, applied design methods, and real-world engagement. 
-
-During the semester, students will explore the fundamentals of multimodal corridor design and apply this knowledge to develop design recommendations for a local community in Oklahoma. The course emphasizes experiential learning through collaboration with community partners, field-based inquiry, and iterative design development. 
-
-A central component of the course is a two-day intensive design charrette, a professional practice model commonly used in urban design and planning. Students will work collaboratively in teams during the charrette to synthesize research, stakeholder input, and design strategies into actionable proposals. The charrette will be co-led by the course instructor and nationally renowned architect and urban designer Victor Dover, providing students with exposure to professional design leadership and interdisciplinary collaboration. 
-
-By the end of the course, students will have developed a comprehensive understanding of multimodal corridor principles, gained experience applying design knowledge to real-world challenges, and strengthened their capacity to work effectively in collaborative, practice-oriented design environments. 
+N/A
 
 
 ## Learning Outcomes 
-After successfully completing this course, students will be able to:
-
-1. Explain the theory, purpose, and professional relevance of multimodal corridors and complete streets, including their roles in mobility, safety, land use integration, and environmental performance.
-2. Analyze transportation corridors at multiple scales by evaluating transportation systems, land use patterns, social context, and environmental conditions, with particular attention to rural and small-community settings.
-3. Apply multimodal corridor and complete streets principles to real-world contexts by developing context-sensitive, actionable design strategies that respond to identified community needs.
-4. Translate planning and design concepts into clear, implementable design recommendations appropriate for professional and community-facing settings.
-5. Collaborate effectively within a charrette-based design environment, demonstrating interdisciplinary thinking, time-intensive problem solving, and the ability to synthesize diverse inputs into coherent design outcomes.
-6. Engage constructively with community stakeholders and external experts by identifying challenges, interpreting local knowledge, and integrating stakeholder perspectives into design proposals.
-7. Communicate professionally through drawings, diagrams, verbal presentations, peer feedback, and written materials appropriate to academic, professional, and public audiences.
+N/A
 
 
 
