@@ -2,7 +2,7 @@
 layout: minimal
 title: Syllabus
 description: Syllabus.
-permalink: /syllabus/
+
 ---
 
 <button id="toc-toggle"><i class="fa-solid fa-bars"></i></button>
