@@ -2,7 +2,7 @@
 title: Module 3 - Mitigation
 ---
 
-<h3 style="text-align: left; font-weight: bold;">II - Mitigation</h3> 
+<h3 style="text-align: left; font-weight: bold;">III - Mitigation</h3> 
 
 Feb 9
 : **Lecture: Energy, Carbon, and Urban Form** <br>
