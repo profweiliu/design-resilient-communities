@@ -9,8 +9,7 @@ Mar 30
 **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 1
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+: **Group Work** <br>
 
 Apr 3
 : **Resilient Cities Series #5** <br>
@@ -25,8 +24,7 @@ Apr 6
 **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 8
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+: **Group Work** <br>
 
 Apr 10
 : **Resilient Cities Series #6** <br>
@@ -40,8 +38,7 @@ Apr 13
 *Wei Liu is out for 2026 Main Street Now Conference (April 13-15).* <br>
 
 Apr 15
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+: **Group Work** <br>
 
 Apr 17
 : **Resilient Cities Series #7** <br>

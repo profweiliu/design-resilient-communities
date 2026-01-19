@@ -11,12 +11,12 @@ Feb 23
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Feb 25
-: **Understanding the Project** <br>
+: **Synthesize Findings** <br>
 : **REQUIRED**{: .readings .readings-required}[Durant Market Square Proposal](TBD){: .citation}  <br>
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Feb 27
-: **Site Analysis** <br>
+: **Review & Discussion** <br>
 
 Mar 2
 : **Charrette Replacement (No Class)** <br>

@@ -10,8 +10,7 @@ Apr 20
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 22
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+: **Group Work** <br>
 
 Apr 24
 : **Topic** <br>
@@ -25,8 +24,7 @@ Apr 27
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 Apr 29
-: **Topic** <br>
-: **Lab**{: .label .label-blue } <br>
+: **Group Work** <br>
 
 May 1
 : **Topic** <br>
@@ -46,3 +44,4 @@ May 11
 *Wei Liu is out for the Congress for the New Urbanism Annual Conference (May 13-16).* <br> 
 
 : **ASSIGNMENT 3 DUE AT NOON**{: .label .label-red } <br>
+: **Lab**{: .label .label-blue } <br>

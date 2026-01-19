@@ -10,7 +10,7 @@ Jan 26
 **OPTIONAL**{: .readings .readings-optional }[Meerow, Newell, & Stults. (2016). Defining Urban Resilience: A Review](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDi5U-uK-axQ6Ewl-VS2n93AeSbMkDuMGWKurQB7auw0Io?e=Jtv7FF){: .citation}  <br>
 
 Jan 28
-: **TBD** <br>
+: **Introduce the Final Project** <br>
 
 Jan 30
 : **Resilient Cities Series #1** <br>
@@ -25,7 +25,7 @@ Feb 2
 **OPTIONAL**{: .readings .readings-optional }[World Economic Forum (2026). The Global Risks Report 2026](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCoLrbgEMKiTKuEASA7jE3kAfyB99w76Zx47cF_mWjN56g?e=P2gUri){: .citation}  <br>
 
 Feb 4
-: **TBD** <br>
+: **Understanding the Context** <br>
 
 Feb 6
 : **Resilient Cities Series #2** <br>
