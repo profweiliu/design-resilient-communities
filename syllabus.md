@@ -81,7 +81,7 @@ All required and optional readings are listed in the course schedule and can be 
 Note: ^Grades count toward the midterm grade. 
 
 ### Extra Credits (3 Points)
-Submit proof of completion of the Student Reflection Survey to receive up to 3 extra credit points. 
+Submit proof of completion of the Student Reflection Survey to receive 3 extra credit points. 
 
 ## Grading Scale
 **A = 90-100 Points (Excellent).** Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. <br>
