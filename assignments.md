@@ -12,7 +12,7 @@ For group assignments, one submission per group is required. Submitted work will
 
 ---
 
-Beyond the Resilient Cities Case Study and the Final Project, students will complete six assignments over the course of the semester. Eash assignment is a milestone, building knowledge necessary to successfully complete the final project. 
+Beyond the Resilient Cities Case Study and the Final Project, students will complete six assignments over the course of the semester. Eash assignment is a milestone, building knowledge necessary to successfully complete the final project.  
 
 ## Assignment 1: Reflection om Resilient Communities
 
