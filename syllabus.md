@@ -44,6 +44,8 @@ After successfully completing this course, students will be able to:
 
 ## Texts and Materials 
 
+All required and optional readings are listed in the course schedule and can be accessed from the course website.
+
 - **Required readings** are identified for each class and should be completed as preparation before coming to class.
 - **Optional readings** are useful for the class topics, and are encouraged to read them before the class. 
 
