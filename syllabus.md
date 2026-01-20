@@ -2,7 +2,6 @@
 layout: minimal
 title: Syllabus
 description: Syllabus.
-
 ---
 
 <button id="toc-toggle"><i class="fa-solid fa-bars"></i></button>
@@ -33,7 +32,13 @@ Offered in partnership with the [Institute for Quality Communities (IQC)](https:
 
 
 ## Learning Outcomes 
-N/A
+After successfully completing this course, students will be able to:
+1. Explain foundational concepts, theories, and frameworks of urban and community resilience, including their relevance to contemporary planning and environmental design practice. <br>
+2. Analyze community conditions and vulnerabilities across different social, environmental, and spatial contexts in order to identify and prioritize resilience challenges and opportunities. <br>
+3. Apply resilience principles to the design of the built environment, with particular emphasis on public space as social, environmental, and civic infrastructure. <br>
+4. Develop and communicate resilient design strategies through clear visual, verbal, and written representations appropriate for professional and community audiences. <br>
+5. Collaborate effectively in real-world, interdisciplinary settings, including participation in a design charrette with professional experts and community partners. <br>
+6. Synthesize research, community engagement, and design thinking into actionable design recommendations that support long-term social, environmental, and spatial resilience. <br>
 
 
 
@@ -43,12 +48,10 @@ N/A
 - **Optional readings** are useful for the class topics, and are encouraged to read them before the class. 
 
 ### Reference Text
-
+- [Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL)
 - [Calthorpe. (2011). Urbanism in the Age of Climate Change](https://sooners-my.sharepoint.com/:b:/r/personal/wliu_ou_edu/Documents/1_Teaching/2026_SP_EnD%204993_C_LIU/Course%20Readings/Reference/Calthorope_2011_Urbanism%20in%20the%20Age%20of%20Climate%20Change.pdf?csf=1&web=1&e=Bdtveh)
-- [Dover & Massengale. (2014). Street Design: The Secret to Great Cities and Towns](https://ou-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=NORMANLAW_ALMA21435341730002042&context=L&vid=OUNEW&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Street%20Design:%20The%20Secret%20to%20Great%20Cities%20and%20Towns&offset=0)
-- [Smart Growth America. (2023). The Complete Streets Policy Framework](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDOdOwL4YpYQ63XwbrNtlS-AS0IPdMmgAuZKrv_YWhWXdA?e=rZvvgj)
-- [NACTO. (2013). Urban Street Design Guide](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCnJyN44WIEQbI8SALj0KIQAdY34NQ3aTLVRkAogPb5S5g?e=Mxpsn3)
-- [NACTO. (2014). Urban Bikeway Design Guide](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA__Ctr9utjTpA9fehqaF6WAchPEelyfQW7LWbIYiKF1zE?e=xzHedb)
+- Whyte. (1980). The Social Life of Small Urban Spaces.
+
 
 ## Grading
 
