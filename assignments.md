@@ -12,9 +12,9 @@ For group assignments, one submission per group is required. Submitted work will
 
 ---
 
-## Assignment 1: Preliminary Research
+## Assignment 1: TBD
 
-On February 2, you will be introduced to the final project for this course. This assignment serves as the preliminary research phase, intended to help the class understand the project context and prepare for upcoming activities. 
+<!--On February 2, you will be introduced to the final project for this course. This assignment serves as the preliminary research phase, intended to help the class understand the project context and prepare for upcoming activities. 
 
 For this assignment, the class will be divided into groups of **4–5** students. Group formation applies only to this assignment; groups may change for future tasks.
 
@@ -41,7 +41,7 @@ Each group will be responsible for **one** of the following research components:
 ### Submission Deadline
 
 Assignment 1 is due on **Monday, February 9 at 12:00 PM (noon)**.  
-The **Stakeholder Interview Preparation** group must submit their work by **11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other groups.
+The **Stakeholder Interview Preparation** group must submit their work by **11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other groups. -->
 
 ---
 
