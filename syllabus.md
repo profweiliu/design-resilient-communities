@@ -112,6 +112,10 @@ The Resilient Cities series consists of student-led class sessions. Each student
 
 This course incorporates both independent work and group-based collaboration. Students are expected to be **responsible, respectful, and professional** in their interactions with peers, both in the classroom and in group project settings. Project groups will be formed during class in the first week of the semester. All group members are expected to contribute equitably and to communicate proactively throughout the project timeline.
 
+### Communication
+
+All course-related communication should take place through Canvas. For matters that extend beyond the scope of the course, students may contact the instructor via email. 
+
 ## A Promise to You
 
 If you keep up with the lectures, attend class sessions regularly, submit assignments on time, and actively engage with me and your classmates, you will succeed in this course. The amount of material may feel challenging at times. I will help you as you work your way through the semester. Please keep me informed of your progress and reach out early if you need help or clarification.
