@@ -58,12 +58,12 @@ After successfully completing this course, students will be able to:
 ### Grading Overview 
 
 **Class Participation**                       |   **30 Points**   |
-*Attendance*               |   10 Points   |
-*Charrette*               |   20 Points   |
+*Attendance^*               |   10 Points   |
+*Charrette^*               |   20 Points   |
 **Assignments**             |   **30 Points**   |
-*Assignment 1*               |   5 Points   |
-*Assignment 2*               |   5 Points   |
-*Assignment 3*               |   5 Points   |
+*Assignment 1^*               |   5 Points   |
+*Assignment 2^*               |   5 Points   |
+*Assignment 3^*               |   5 Points   |
 *Assignment 4 (Group)*               |   5 Points   |
 *Assignment 5 (Group)*               |   5 Points   |
 *Assignment 6 (Group)*               |   5 Points   |
