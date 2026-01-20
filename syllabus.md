@@ -98,7 +98,7 @@ Note: At the University of Oklahoma, letter grades like A–, B+, C+, D+ are not
 
 ### Participation and Attendance
 
-Active participation and engagement are essential to the learning objectives of this course. Students are expected to attend class regularly and contribute to discussions, labs, and collaborative activities. Students are permitted up to **six (6)** absences over the course of the semester, **excluding the design charrette**. Each additional absence beyond the allowed six will result in a 0.5-point deduction from the participation grade per absence. **Participation in the design charrette is mandatory.** Absence from the charrette may result in a significant penalty and may jeopardize successful completion of the course. Any anticipated conflict must be discussed with the instructor in advance.
+Active participation and engagement are essential to the learning objectives of this course. Students are expected to attend class regularly and contribute to discussions, labs, and collaborative activities. Students are permitted up to **six (6)** absences over the course of the semester, excluding the design charrette. Each additional absence beyond the allowed six will result in a 0.5-point deduction from the participation grade per absence. **Participation in the design charrette is mandatory.** Absence from the charrette may result in a significant penalty and may jeopardize successful completion of the course. Any anticipated conflict must be discussed with the instructor in advance.
 
 ### Lab Sessions and Design Materials
 
