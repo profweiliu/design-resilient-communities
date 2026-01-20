@@ -57,20 +57,22 @@ After successfully completing this course, students will be able to:
 
 ### Grading Overview 
 
-**Class Participation**                       |   **36 Points**   |
-*Attendance^*               |   8 Points   |
-*Engagement^*               |   8 Points   |
-*Charrette^*               |   20 Points   |
-**Assignments**             |   **34 Points**   |
-*Assignment 1^*               |   6 Points   |
-*Assignment 2^*               |   6 Points   |
-*Assignment 3*               |   6 Points   |
+**Class Participation**                       |   **30 Points**   |
+*Attendance*               |   10 Points   |
+*Charrette*               |   20 Points   |
+**Assignments**             |   **30 Points**   |
+*Assignment 1*               |   5 Points   |
+*Assignment 2*               |   5 Points   |
+*Assignment 3*               |   5 Points   |
 *Assignment 4 (Group)*               |   5 Points   |
 *Assignment 5 (Group)*               |   5 Points   |
-*Assignment 6*               |   6 Points   |
-**Final Project**              |   **30 Points**    |
+*Assignment 6 (Group)*               |   5 Points   |
+**Resilient Cities Case Study**              |   **15 Points**    |
+*Presentation*               |   7 Points   |
+*Essay*               |   8 Points   |
+**Final Project**              |   **25 Points**    |
 *Final Presentation (Group)*               |   10 Points   |
-*Final Report (Group)*               |   20 Points   |
+*Final Report (Group)*               |   15 Points   |
 **Total**              |   **100 Points**    |
 *Extra Credits*              |   3 Points    |
 
@@ -100,7 +102,7 @@ Lab sessions are primarily structured as in-class time for creative and collabor
 
 ### Student-Led Sessions
 
-The Resilient Cities series consists of student-led class sessions. Each student is required to select two cities, one from the Global North and one from the Global South, and deliver a comparative presentation based on the cities’ resilient cities reports. Students will sign up for their selected cities and presentation week. Two students will present during each session. Active participation as both presenter and audience member is expected. Because presentations are scheduled across different weeks throughout the semester, **the comparative summary essay assignment will be due on the Monday following each student’s presentation.**
+The Resilient Cities series consists of student-led class sessions. Each student is required to select two cities, one from the Global North and one from the Global South, and deliver a comparative presentation based on the cities’ resilient cities reports. Students will sign up for their selected cities and presentation week. Two students will present during each session. Active participation as both presenter and audience member is expected. Because presentations are scheduled across different weeks throughout the semester, **the comparative summary essay will be due on the Monday following each student’s presentation.**
 
 ### Collaboration and Professional Conduct
 
