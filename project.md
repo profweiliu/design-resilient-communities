@@ -4,7 +4,7 @@ title: Project
 ---
 
 {% include course_header.html %}
-# Assignments
+# Project
 {:.no_toc}
 
 Details will be provided soon. 
