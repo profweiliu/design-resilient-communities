@@ -30,7 +30,7 @@ In your response, you might consider:
 - No more than one page (excluding references) 
 - Single-spaced, with 1-inch margins on all sides
 - Times New Roman in 12 point or similar 
-- [APA Citation Guide (WL's cheat sheet)]({{ site.baseurl }}/assets/pdfs/apaguidewl.pdf), Full APA Citation Guide by OU Writing Center(https://www.ou.edu/content/dam/writingcenter/docs/writing-guides/APA-citation-guide.pdf)
+- [APA Citation Guide (WL's cheat sheet)]({{ site.baseurl }}/assets/pdfs/apaguidewl.pdf), [Full APA Citation Guide by OU Writing Center](https://www.ou.edu/content/dam/writingcenter/docs/writing-guides/APA-citation-guide.pdf)
 - Microsoft Word or a Word compatible file (.doc or .docx)
 
 ### Submission Deadline
