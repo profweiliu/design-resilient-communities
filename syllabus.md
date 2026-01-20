@@ -100,7 +100,7 @@ Lab sessions are primarily structured as in-class time for creative and collabor
 
 ### Student-Led Sessions
 
-The Resilient Cities series consists of student-led class sessions. Each student is required to select two cities, one from the Global North and one from the Global South, and deliver a comparative presentation based on the cities’ resilient cities reports. Students will sign up for their selected cities and presentation week. Two students will present during each session. Active participation as both presenter and audience member is expected.
+The Resilient Cities series consists of student-led class sessions. Each student is required to select two cities, one from the Global North and one from the Global South, and deliver a comparative presentation based on the cities’ resilient cities reports. Students will sign up for their selected cities and presentation week. Two students will present during each session. Active participation as both presenter and audience member is expected. Because presentations are scheduled across different weeks throughout the semester, **the comparative summary essay assignment will be due on the Monday following each student’s presentation.**
 
 ### Collaboration and Professional Conduct
 
