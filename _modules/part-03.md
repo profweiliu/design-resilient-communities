@@ -11,7 +11,7 @@ Feb 9
 
 Feb 11
 : **Lab 3: Review & Discussion** <br>
-: **ASSIGNMENT DUE AT 29:59 PM**{: .label .label-red } <br>
+: **ASSIGNMENT DUE AT 11:59 AM PM**{: .label .label-red } <br>
 
 Feb 13
 : **Resilient Cities Series #3** <br>
