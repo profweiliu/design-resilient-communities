@@ -7,4 +7,4 @@ title: Charrette
 # Assignments
 {:.no_toc}
 
-Charrette
+Details will be provided soon. 
