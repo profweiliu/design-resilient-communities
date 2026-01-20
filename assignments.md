@@ -18,17 +18,17 @@ Beyond the Resilient Cities Case Study and the Final Project, students will comp
 
 ### Prompt and Instructions 
 
-After the lecture, *"What Do We Mean by Resilient Communities,"* write a short reflection responding to the question: 
+After the lecture, *"What Do We Mean by Resilient Communities,"* write a short reflection responding to the question: <br>
 At this point in the semester, what does the idea of a "resilient community" mean to you, viewed through your own disciplinary perspective or professional interests? 
 
 In your response, you might consider:
-- How your current understanding of a resilient community aligns with, expands upon, or differs from ideas discussed in the lecture. 
+- How your current understanding of a *resilient community* aligns with, expands upon, or differs from ideas discussed in the lecture. 
 - What questions, uncertaintities, or assumptions you have about resilience that you hope to explore further in this course.
 
 Format requirement:
 - No more than one page (excluding references) 
 - Single-spaced, with 1-inch margins on all sides
-- Times New Roman in 12 point or similar. 
+- Times New Roman in 12 point or similar 
 - APA Citation style 
 - Microsoft Word or a Word compatible file (.doc or .docx)
 
