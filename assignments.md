@@ -22,7 +22,7 @@ After the lecture, *"What Do We Mean by Resilient Communities,"* write a short r
 At this point in the semester, what does the idea of a "resilient community" mean to you, viewed through your own disciplinary perspective or professional interests? 
 
 In your response, you might consider:
-- How your current understanding of a *resilient community* aligns with, expands upon, or differs from ideas discussed in the lecture. 
+- How your current understanding of a "resilient community" aligns with, expands upon, or differs from ideas discussed in the lecture. 
 - What questions, uncertaintities, or assumptions you have about resilience that you hope to explore further in this course.
 
 ### Format requirement
