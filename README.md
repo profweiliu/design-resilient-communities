@@ -15,6 +15,8 @@ Communities today face an array of interconnected challenges, including climate 
 
 The course combines lectures, discussions, and labs with applied, experiential learning. Students will engage in a time-intensive design charrette with professional design experts and community partners, develop hands-on responses to a real-world challenge in a local context, and deliver student-led presentations based on resilient cities reports to build comparative and international perspectives.
 
+A central component of the course is a two-day intensive design charrette, a professional practice model commonly used in urban design and planning. Students will work collaboratively in teams during the charrette to synthesize research, stakeholder input, and design strategies into actionable proposals. The charrette will be co-led by the course instructor and nationally renowned architect and urban designer [Victor Dover](https://www.doverkohl.com/vdover), providing students with direct exposure to professional design leadership and interdisciplinary collaboration.
+
 Offered in partnership with the [Institute for Quality Communities (IQC)](https://iqc.ou.edu), the course centers on a real community-based project in the City of Durant, Oklahoma. By the end of the semester, students will synthesize research, community engagement, and design thinking to produce actionable design recommendations that support long-term social, environmental, and spatial resilience for the community.
 
 --- 
