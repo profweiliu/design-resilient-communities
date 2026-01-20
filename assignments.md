@@ -12,7 +12,29 @@ For group assignments, one submission per group is required. Submitted work will
 
 ---
 
-## Assignment 1: TBD
+Beyond the Resilient Cities Case Study and the Final Project, students will complete six assignments over the course of the semester. Eash assignment is a milestone, building knowledge necessary to successfully complete the final project. 
+
+## Assignment 1: Reflection om Resilient Communities
+
+### Prompt and Instructions 
+
+Following the first lecture, *"What Do We Mean by Resilient Communities,"* write a short reflection essay addressing the following questions:
+What does "resilience" mean to you in terms of environent design and/or community development? 
+
+In your response, you should:
+- Reflect on how your understanding of resilience aligns with or differs from ideas discussed in the lecture,
+- Discuss why resilience is an important consideration for future practitioners like you working with communities today, and 
+- Breifly consider how this concept might inform the design decisions or community strategies you expect to explore in this course.
+
+Format:
+- less than 2 pages. 
+- Double spaced, 1-inch margins, Times New Roman in 12 point or similar. 
+- APA Citation style.
+- Microsoft Word or Word compatible file. 
+
+### Submission Deadline
+
+Assignment 1 is due on **Wednesday, January 28 at 23:39 PM**.  
 
 <!--On February 2, you will be introduced to the final project for this course. This assignment serves as the preliminary research phase, intended to help the class understand the project context and prepare for upcoming activities. 
 
