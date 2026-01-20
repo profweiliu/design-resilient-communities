@@ -135,7 +135,13 @@ Plagiarism as defined by the [OU Integrity Office](https://www.ou.edu/integrity/
 Visit the [OU Integrity Office](https://www.ou.edu/integrity/students#OU-and-Integrity) for more information on what constitutes plagiarism.
 
 ### Generative AI Policy
-Generative AI tools may be used in this course for brainstorming, planning, and learning purposes. For example, you are welcome to experiment with AI to generate possible approaches to an assignment, draft outlines, or clarify your understanding of a concept. However, all submitted work, including written assignments, design graphics, and final project reports, must be entirely your own. Direct use of Generative AI outputs in your submitted work (copying text, images, or other content produced by AI) is not permitted. All submissions on Canvas will be evaluated through Turnitin, which detects both plagiarism and AI-generated content. Any assignment found to contain AI-generated or plagiarism will receive a grade of ZERO. 
+Generative AI tools may be used in this course as a support for learning, brainstorming, and planning. For example, students may use AI to explore ideas, clarify concepts, test possible approaches to an assignment, or assist with early-stage outlining and problem framing.
+
+All **written submissions** (including essays, reports, reflections, and explanatory text) must be original student work. If Generative AI is used at any stage to assist with brainstorming, outlining, or drafting, its use must be clearly acknowledged, and any AI-assisted content must be properly cited or referenced. Students are responsible for ensuring that all submitted writing reflects their own analysis, voice, and synthesis. All submissions on Canvas will be reviewed using Turnitin, which evaluates both plagiarism and AI-generated content, prior to grading.
+
+For **creative and design-based work**, students are encouraged to develop and communicate ideas through drawings, diagrams, and original visual representations. Generative AI may be used to support or refine design concepts (e.g., visual exploration, iteration, or up-tuning ideas), but it may not replace independent design thinking. If Generative AI is used to generate or modify visual content: (1) students must retain a record of prompts used, and (2) clearly indicate which drawings or graphics include AI-generated content.
+
+Failure to appropriately disclose or cite the use of Generative AI, or any instance of plagiarism (including unacknowledged AI-generated text or imagery), constitutes a violation of academic integrity. Any assignment found to contain improperly cited AI-generated content or plagiarism will receive a grade of ZERO.
 
 ## University Policies
 
