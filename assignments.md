@@ -19,7 +19,7 @@ For group assignments, one submission per group is required. Submitted work will
 
 Beyond the Resilient Cities Case Study and the Final Project, students will complete six assignments over the course of the semester. Eash assignment is a milestone, building knowledge necessary to successfully complete the final project.  
 
-## Assignment 1: Initial Reflection on Resilient Communities
+## Assignment 1 Initial Reflection on Resilient Communities
 
 ### Prompt  
 
@@ -44,7 +44,7 @@ Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**.
 
 ---
 
-## Assignment 2: Narrating Your Thoughts
+## Assignment 2 Narrating Your Thoughts
 
 ### Prompt  
 
@@ -71,7 +71,7 @@ Assignment 2 is due on **Wednesday, Feburary 11 at 11:59 PM**.
 
 ---
 
-## Assignment 3: Refining Your Thinking
+## Assignment 3 Refining Your Thinking
 
 ### Prompt  
 
