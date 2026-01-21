@@ -10,6 +10,7 @@ title: Assignments
 {% include course_header.html %}
 # Assignments
 {:.no_toc}
+{% endfor %}
 
 Assignment instructions will be posted on this page. **All submissions must be made through Canvas.**  <br>
 For group assignments, one submission per group is required. Submitted work will be shared with all group members. <br>
