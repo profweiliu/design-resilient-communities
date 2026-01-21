@@ -39,6 +39,7 @@ Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**.
 
 ---
 
+<a id="assignment-2"></a>
 ## Assignment 2: Narrating Your Thoughts
 
 ### Prompt  
@@ -62,4 +63,4 @@ In your response, you might consider:
 
 ### Submission Deadline
 
-Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**. 
+Assignment 1 is due on **Wednesday, Feburary 11 at 11:59 PM**. 
