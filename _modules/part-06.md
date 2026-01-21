@@ -5,7 +5,7 @@ title: Module 6 - Wrap Up
 
 
 Apr 20
-: **Lecture: From Resilience to Transformation** <br>
+: **Lecture: ** <br>
 : **REQUIRED**{: .readings .readings-required}[TBD.](hTBD){: .citation}  <br>
 : **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
@@ -18,9 +18,9 @@ Apr 24
 
 
 Apr 27
-: **Lecture: Translating Resilience into Design Practice** <br>
-: **REQUIRED**{: .readings .readings-required}[TBD.](hTBD){: .citation}  <br>
-: **OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
+: **Lecture: Building Resilient Communities** <br>
+: **REQUIRED**{: .readings .readings-required}[Chapter 3. Coyle. (2011). Sustainable and Resilient Communities](TBD){: .citation}  <br>
+: **OPTIONAL**{: .readings .readings-optional }[Chapter 5. Mukim & Roberts. (2023). Making Cities Green, Resilient, and Inclusive in a Changing Climate](TBD){: .citation}  <br>
 
 Apr 29
 : **Lab 12: Group Work** <br>
