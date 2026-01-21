@@ -71,7 +71,7 @@ Assignment 2 is due on **Wednesday, Feburary 11 at 11:59 PM**.
 
 ---
 
-## Assignment 3: Narrating Your Thoughts
+## Assignment 3: Refining Your Thinking
 
 ### Prompt  
 
