@@ -5,7 +5,7 @@ title: Module 6 - Wrap Up
 
 
 Apr 20
-: **Lecture: Resilient Urban Design Principles and Elements** <br>
+: **Lecture: Building Resilient Communities** <br>
 : **REQUIRED**{: .readings .readings-required}[TBD.](hTBD){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[TBD](TBD){: .citation}  <br>
 
