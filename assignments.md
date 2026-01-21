@@ -3,6 +3,10 @@ layout: minimal
 title: Assignments
 ---
 
+<button id="toc-toggle"><i class="fa-solid fa-bars"></i></button>
+1. TOC
+{:toc}
+
 {% include course_header.html %}
 # Assignments
 {:.no_toc}
