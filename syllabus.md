@@ -82,7 +82,7 @@ All required and optional readings are listed in the course schedule and can be 
 
 Note: ^Grades count toward the midterm grade. 
 
-### Extra Credits (3 Points)
+### Extra Credits 
 Submit proof of completion of the Student Reflection Survey to receive 3 extra credit points. 
 
 ### Grading Scale
