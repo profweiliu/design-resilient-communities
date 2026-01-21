@@ -10,7 +10,7 @@ title: Assignments
 {% include course_header.html %}
 # Assignments
 {:.no_toc}
-{% endfor %}
+
 
 Assignment instructions will be posted on this page. **All submissions must be made through Canvas.**  <br>
 For group assignments, one submission per group is required. Submitted work will be shared with all group members. <br>
@@ -45,6 +45,7 @@ Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**.
 ---
 
 ## Assignment 2: Narrating Your Thoughts
+{: #assignment-2}
 
 ### Prompt  
 
