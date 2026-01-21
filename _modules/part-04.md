@@ -45,7 +45,7 @@ Mar 13
 : <span style="color: #777777;"><strong>Charrette Replacement (No Class)</strong><br>
 <em>Class hours fulfilled during the charrette</em></span>
 
-Mar 16-20
+Mar 16
 : <span style="color: #777777;"><strong>Spring Break (No Class)</strong><br>
 
 Mar 17

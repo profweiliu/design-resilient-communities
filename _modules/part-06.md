@@ -6,8 +6,8 @@ title: Module 6 - Wrap Up
 
 Apr 20
 : **Lecture: Design Resilient Communities** <br>
-: **REQUIRED**{: .readings .readings-required}[TBD.](hTBD){: .citation}  <br>
-**OPTIONAL**{: .readings .readings-optional }[TBD](TBD){: .citation}  <br>
+: **REQUIRED**{: .readings .readings-required}[Sharifi & Yamagata. (2014). Resilient Urban Design: Major Principles and Criteria](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXwQmGehqtSZhua3YIcNRfAXkPDJCnFk989kcku7_i_K4?e=fbS0j4){: .citation}  <br>
+**OPTIONAL**{: .readings .readings-optional }[Department of Human Settlements and Urban Development. (2025). Resilient Urban Design and Development Guidelines](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDrfPOsMbNyQIr01my_xGxgAdsCwmwCz-YH3YeCktc2oGg?e=VVqI2a){: .citation}  <br>
 
 Apr 22
 : **Lab 10: Group Work** <br>
