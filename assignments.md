@@ -39,7 +39,6 @@ Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**.
 
 ---
 
-<a id="assignment-2"></a>
 ## Assignment 2: Narrating Your Thoughts
 
 ### Prompt  
