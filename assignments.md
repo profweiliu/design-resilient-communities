@@ -68,3 +68,6 @@ In your response, you might consider:
 ### Submission Deadline
 
 Assignment 2 is due on **Wednesday, Feburary 11 at 11:59 PM**. 
+
+
+{% include course_footer.html %}
