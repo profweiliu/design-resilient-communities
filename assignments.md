@@ -69,5 +69,30 @@ In your response, you might consider:
 
 Assignment 2 is due on **Wednesday, Feburary 11 at 11:59 PM**. 
 
+---
+
+## Assignment 3: Narrating Your Thoughts
+
+### Prompt  
+
+Briefly summarize the most relavant insights you gained from the stakeholder interview, particularly those related to the environmental issue you previously identified. 
+Then articulate one priority you want to bring into the design process moving forward. 
+
+In your response, you might consider: 
+- New information you learned
+- Perspectives that challenged or confirmed your assumptions
+- Respond directly to community needs or concerns
+
+### Format requirement
+
+- No more than one page (excluding references) 
+- Single-spaced, with 1-inch margins on all sides
+- Times New Roman in 12 point or similar 
+- [APA Citation Guide (WL's cheat sheet)]({{ site.baseurl }}/assets/pdfs/apaguidewl.pdf), [APA Citation Guide by OU Writing Center](https://www.ou.edu/content/dam/writingcenter/docs/writing-guides/APA-citation-guide.pdf)
+- Microsoft Word or a Word compatible file (.doc or .docx)
+
+### Submission Deadline
+
+Assignment 3 is due on **Wednesday, Feburary 25 at 11:59 PM**. 
 
 {% include course_footer.html %}
