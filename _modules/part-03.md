@@ -12,7 +12,7 @@ Feb 9
 Feb 11
 : **Lab 3: Review & Discussion** <br>
 : **ASSIGNMENT 2 DUE AT 11:59 AM PM**{: .label .label-red } <br>
-  : [Assignment Instruction]({{ site.baseurl }}/assignments/##assignment-2-narrating-your-thoughts) <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-2-narrating-your-thoughts) <br>
 
 Feb 13
 : **Resilient Cities Series #3** <br>
