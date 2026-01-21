@@ -22,7 +22,7 @@ Apr 3
 Apr 6
 : **Lecture: Social & Community Resilience** <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 3. Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL){: .citation}  <br>
-**OPTIONAL**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
+**OPTIONAL**{: .readings .readings-optional }[Chapter 2 & 3. Montgomery. (2013). Happy City: Transforming Our Lives Through Urban Design](TBD){: .citation}  <br>
 
 Apr 8
 : **Lab 8: Group Work** <br>
