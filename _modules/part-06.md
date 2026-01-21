@@ -5,7 +5,7 @@ title: Module 6 - Wrap Up
 
 
 Apr 20
-: **Lecture: Building Resilient Communities** <br>
+: **Lecture: Design Resilient Communities** <br>
 : **REQUIRED**{: .readings .readings-required}[TBD.](hTBD){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[TBD](TBD){: .citation}  <br>
 
