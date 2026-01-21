@@ -110,7 +110,7 @@ The Resilient Cities series consists of student-led class sessions. Each student
 
 ### Collaboration and Professional Conduct
 
-This course incorporates both independent work and group-based collaboration. Students are expected to be **responsible, respectful, and professional** in their interactions with peers, both in the classroom and in group project settings. Project groups will be formed during class in the first week of the semester. All group members are expected to contribute equitably and to communicate proactively throughout the project timeline. As part of the assessment of group work, students will be required to complete a confidential peer evaluation by the end of the semester. Peer evaluations will be used to assess individual contributions and professionalism and may affect individual grades associated with group assignments and final project.
+This course incorporates both independent work and group-based collaboration. Students are expected to be **responsible, respectful, and professional** in their interactions with peers, both in the classroom and in group project settings. Project groups will be formed during class in the first week of the semester. All group members are expected to contribute equitably and to communicate proactively throughout the project timeline. As part of the assessment of group work, students will be required to complete a confidential **peer evaluation** by the end of the semester. Peer evaluations will be used to assess individual contributions and professionalism and may affect individual grades associated with group assignments and final project.
 
 ### Communication
 
