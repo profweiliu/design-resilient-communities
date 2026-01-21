@@ -39,4 +39,27 @@ Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**.
 
 ---
 
-<!--# Assignment 2: TBD-->
+## Assignment 2: Narrating Your Thoughts
+
+### Prompt  
+
+At this stage of the semester, you have been introduced to the final project and the community context, and you will soon be meeting with community stakeholders for an interview. 
+
+Provide a concise but thoughtful overview of your understanding of why revitalization of this site is necessary, and identify one pressing environmental issue affecting the site. Then, develop three questions you would like to ask community stakeholders during the interview. Your questions should help you clarify uncertainties, validate or challenge your assumptions, and fill gaps in your understanding that will inform your design approach.
+
+In your response, you might consider: 
+- Physical conditions of the public space
+- Surrounding activities and circulation
+- How the space is currently used (or underused)
+
+### Format requirement
+
+- No more than one page (excluding references) 
+- Single-spaced, with 1-inch margins on all sides
+- Times New Roman in 12 point or similar 
+- [APA Citation Guide (WL's cheat sheet)]({{ site.baseurl }}/assets/pdfs/apaguidewl.pdf), [APA Citation Guide by OU Writing Center](https://www.ou.edu/content/dam/writingcenter/docs/writing-guides/APA-citation-guide.pdf)
+- Microsoft Word or a Word compatible file (.doc or .docx)
+
+### Submission Deadline
+
+Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**. 
