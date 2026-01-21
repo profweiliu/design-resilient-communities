@@ -85,7 +85,7 @@ Note: ^Grades count toward the midterm grade.
 ### Extra Credits (3 Points)
 Submit proof of completion of the Student Reflection Survey to receive 3 extra credit points. 
 
-## Grading Scale
+### Grading Scale
 **A = 90-100 Points (Excellent).** Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. <br>
 **B = 80-89 Points (Very Good).** Work meets the criteria of quality, creativity, and criticality. Collaboration with teammates, where required, is good. Content exhibits thoroughness and substantiation. Craft is high. Project shows reasonable innovation and evolution. <br>
 **C = 70-79 Points (Good/Average).** Work meets the basic requirements of the assignment. Collaboration with teammates is functional. Content is average, perhaps lacking in depth or rigor. Craft is acceptable. Project shows minimal innovation and/or evolution. <br>
