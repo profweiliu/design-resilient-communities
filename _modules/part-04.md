@@ -13,6 +13,7 @@ Feb 23
 Feb 25
 : **Lab 5: Synthesize Findings** <br>
 : **ASSIGNMENT 3 DUE AT 11:59 AM**{: .label .label-red } <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/##Assignment 3: Narrating Your Thoughts) <br>
 
 Feb 27
 : **Lab 6: Review & Discussion** <br>
