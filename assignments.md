@@ -63,4 +63,4 @@ In your response, you might consider:
 
 ### Submission Deadline
 
-Assignment 1 is due on **Wednesday, Feburary 11 at 11:59 PM**. 
+Assignment 2 is due on **Wednesday, Feburary 11 at 11:59 PM**. 
