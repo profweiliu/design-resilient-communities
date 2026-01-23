@@ -1,10 +1,10 @@
 ---
 layout: minimal
-title: Resilient Cities Report
+title: Resilient Cities 
 ---
 
 {% include course_header.html %}
-# Resilient Cities Report
+# Resilient Cities 
 {:.no_toc}
 
 Details will be provided soon. 
