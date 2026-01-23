@@ -12,7 +12,7 @@ title: Assignments
 {:.no_toc}
 
 
-Assignment instructions will be posted on this page. ==All submissions must be made through Canvas.==  <br>
+Assignment instructions will be posted on this page. **All submissions must be made through Canvas.**  <br>
 For group assignments, one submission per group is required. Submitted work will be shared with all group members. <br>
 
 ---
