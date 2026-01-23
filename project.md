@@ -1,10 +1,10 @@
 ---
 layout: minimal
-title: Project
+title: Final Project
 ---
 
 {% include course_header.html %}
-# Project
+# Final Project
 {:.no_toc}
 
 Details will be provided soon. 
