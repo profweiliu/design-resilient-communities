@@ -13,7 +13,9 @@ Apr 22
 : **Lab 10: Group Work** <br>
 
 Apr 24
-: **Lab 11: Group Work** <br>
+: **Resilient Cities Series #8** <br>
+: **Student Presentations**{: .label .label-stone } <br>
+*Student Names-Cities*
 
 
 
@@ -23,11 +25,11 @@ Apr 27
 **OPTIONAL**{: .readings .readings-optional }[Chapter 5. Mukim & Roberts. (2023). Making Cities Green, Resilient, and Inclusive in a Changing Climate](TBD){: .citation}  <br>
 
 Apr 29
-: **Lab 12: Group Work** <br>
+: **Lab 11: Group Work** <br>
 : **ASSIGNMENT 6 DUE AT 11:59 AM**{: .label .label-red } <br>
 
 May 1
-: **Lab 13: Group Work** <br>
+: **Lab 12: Group Work** <br>
 
 
 
