@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Resilient Cities 
+title: Independent Research
 ---
 
 {% include course_header.html %}
