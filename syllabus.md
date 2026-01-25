@@ -71,8 +71,8 @@ All required and optional readings are listed in the course schedule and can be 
 *Assignment 4 (Group)*               |   5 Points   |
 *Assignment 5 (Group)*               |   5 Points   |
 *Assignment 6 (Group)*               |   5 Points   |
-**Student-Led Discussions**              |   **15 Points**    |
-*Presentation*               |   7 Points   |
+**Independent Research**              |   **15 Points**    |
+*Student-Led Discussions*               |   7 Points   |
 *Essay*               |   8 Points   |
 **Final Project**              |   **25 Points**    |
 *Final Presentation (Group)*               |   10 Points   |
@@ -104,9 +104,9 @@ Active participation and engagement are essential to the learning objectives of 
 
 Lab sessions are primarily structured as in-class time for creative and collaborative work. Students are expected to come prepared with basic design supplies and tools, such as paper, pens, markers, iPads, or laptops, whichever tools they feel most comfortable using to communicate design ideas. **No prior design experience or specialized skill set is required.** However, students are expected to actively learn design fundamentals throughout the semester and to contribute meaningfully to their individual and group work.
 
-### Student-Led Discussions
+### Independent Research
 
-The Resilient Cities series consists of student-led class sessions. Each student is required to select two cities, one from the Global North and one from the Global South, and deliver a comparative presentation based on the cities’ resilient cities reports. Students will sign up for their selected cities and presentation week. Two students will present during each session. Active participation as both presenter and audience member is expected. Because presentations are scheduled across different weeks throughout the semester, **the comparative summary essay will be due on the Monday following each student’s presentation.**
+The independent research consists of student-led discussions and written essays. Each student is required to select two cities from 100 Resilient Cities, one from the Global North and one from the Global South, and deliver a comparative presentation based on the cities’ resilient cities reports. Students will sign up for their selected cities and presentation week. Two students will present during each session. Active participation as both presenter and audience member is expected. Because presentations are scheduled across different weeks throughout the semester, **the comparative summary essay will be due on the Monday following each student’s presentation.**
 
 ### Collaboration and Professional Conduct
 
