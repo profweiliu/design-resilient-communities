@@ -71,7 +71,7 @@ All required and optional readings are listed in the course schedule and can be 
 *Assignment 4 (Group)*               |   5 Points   |
 *Assignment 5 (Group)*               |   5 Points   |
 *Assignment 6 (Group)*               |   5 Points   |
-**Resilient Cities Case Study**              |   **15 Points**    |
+**Student-Led Discussions**              |   **15 Points**    |
 *Presentation*               |   7 Points   |
 *Essay*               |   8 Points   |
 **Final Project**              |   **25 Points**    |
