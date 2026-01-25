@@ -8,13 +8,13 @@ title: Resilient Cities
 {:.no_toc}
 
 ## Purpose of the Independent Research
-This indenpendent research introduces students to the 100 Resilient Cities (100RC) initiative, one of the most influential global framework for urban resilience. Through comparative analysis, students will gain exposure to how cities and communities across different global contexts define risks, set priorities, and propose resilience strategies.
+This indenpendent research introduces students to the 100 Resilient Cities (100RC) initiative, one of the most influential global framework for urban resilience. Through comparative analysis, you will gain exposure to how cities and communities across different global contexts define risks, set priorities, and propose resilience strategies.
 
-By conducting their own comparative research and learning from peers' presentations, students will develop a broader understanding of urban resilience as a multi-dimensional concept that integrates environmental, social, economic, and institutional perspectives. 
+By conducting your own comparative research and learning from peers' presentations, you will develop a broader understanding of urban resilience as a multi-dimensional concept that integrates environmental, social, economic, and institutional perspectives. 
 
 ## Presentation (15 minutes)
 
-Students are encouraged to use slides, diagrams, tables or other visual materials as appropriate. There is no required presentation format. You are free to organize and communicate your analysis in a way best supports your argument, as long as the components below are clearly addressed. 
+You are encouraged to use slides, diagrams, tables or other visual materials as appropriate. There is no required presentation format. You are free to organize and communicate your analysis in a way best supports your argument, as long as the components below are clearly addressed. 
 
 Your presentation should address all of the following areas:
 - City Context 
@@ -38,7 +38,7 @@ Presentation materials (slides or other visual materials) are due by **11:59 PM 
 
 ### Prompt
 
-The essay should expand on the presentation and address the following: 
+The essay should expand on your presentation and address the following: 
 - Resilience priorities and strategies for each city
 - key similarities and differences in strategies across the two cities
 - Observed synergies (where strategies address multiple goals)
