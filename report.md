@@ -4,7 +4,7 @@ title: Resilient Cities
 ---
 
 {% include course_header.html %}
-# Comparative Review of 100 Resilient Cities Reports
+# Comparative Review of 100 Resilient Cities
 {:.no_toc}
 
 ## Purpose of the Independent Research
