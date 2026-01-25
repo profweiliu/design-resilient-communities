@@ -8,7 +8,7 @@ title: Independent Research
 {:.no_toc}
 
 ## Purpose of the Independent Research
-This indenpendent research introduces students to the 100 Resilient Cities (100RC) initiative, one of the most influential global framework for urban resilience. Through comparative analysis, you will gain exposure to how cities and communities across different global contexts define risks, set priorities, and propose resilience strategies.
+This indenpendent research introduces students to the [100 Resilient Cities](https://resilientcitiesnetwork.org) (100RC) initiative, one of the most influential global framework for urban resilience. Through comparative analysis, you will gain exposure to how cities and communities across different global contexts define risks, set priorities, and propose resilience strategies.
 
 By conducting your own comparative research and learning from peers' presentations, you will develop a broader understanding of urban resilience as a multi-dimensional concept that integrates environmental, social, economic, and institutional perspectives. 
 
