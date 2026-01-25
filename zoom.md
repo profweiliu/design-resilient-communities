@@ -13,7 +13,7 @@ Below is the Zoom access that will be used only when the class is moved online. 
 
 The Zoom waiting room will be enabled for class meetings. You will be admitted shortly once the instructor begins the session. Please be patient during this process. 
 
-Please refer to class announcements for any updates regarding class modality. 
+---
 
 Get into the **[Zoom Classroom](https://oklahoma.zoom.us/j/3919969054?pwd=gHyc3JSGHoA9eptgVARNkmIdsOYkXg.1)** <br>
 
