@@ -12,3 +12,18 @@ This indenpendent research introduces students to the 100 Resilient Cities (100R
 
 By conducting their own comparative research and learning from peers' presentations, students will develop a broader understanding of urban resilience as a multi-dimensional concept that integrates environmental, social, economic, and institutional perspectives. 
 
+## Presentation Requirement (15 minutes)
+The presentation should focus on comparison, not description alone. Students are encouraged to use slides, diagrams, or tables. 
+
+- City Context 
+    - Basic information on each city (location, population, major environmental risks)
+    - Why these risks matter for the city
+- Resilience Priorities and Strategies
+    - Key resilience goals identified in each city's report
+    - Major strategies or focus areas (e.g., infrastructure, social systems, governance, environment)
+- Comparative Insights
+    - What similarities do you observe between the two cities
+    - What differences stand out, and why they might exist
+- Reflection
+    - What tensions, limitations, or challenges can you identify
+    - Select one resilience strategy from either of the two cities and address how this strategy could be translated into a concrete design intervention (e.g., public space, street, building, landscape, or infrastructure element)
