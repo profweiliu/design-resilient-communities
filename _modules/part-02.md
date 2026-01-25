@@ -17,8 +17,8 @@ Jan 28
 Jan 30
 : **Resilient Cities Series 1** <br>
 : **Student Presentations**{: .label .label-stone } <br>
-*Student Names-Cities*
   : [Independent Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+*Student Names-Cities*
 
 
 
