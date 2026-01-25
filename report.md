@@ -30,7 +30,7 @@ Your presentation should address all of the following areas:
     - What tensions, limitations, or challenges can you identify
     - Selection of one resilience strategy from either city and a discussion of how it could be translated into a concrete design intervention (e.g., public space, street, building, landscape, or infrastructure element)
 
-    ### Submission Deadline
+### Submission Deadline
 
 Presentation materials (slides or other visual materials) are due by **11:59 PM on the day of your presentation**. 
 
