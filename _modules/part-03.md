@@ -16,8 +16,9 @@ Feb 11
 
 Feb 13
 : **Resilient Cities Series #3** <br>
-: **Student Presentations**{: .label .label-stone } <br>
-*Student Names-Cities*
+: **Student-Led Discussions**{: .label .label-stone } <br>
+  : [Independent Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+: *Student Names-Cities*
 
 
 
@@ -31,8 +32,9 @@ Feb 18
 
 Feb 20
 : **Resilient Cities Series #4** <br>
-: **Student Presentations**{: .label .label-stone } <br>
-*Student Names-Cities*
+: **Student-Led Discussions**{: .label .label-stone } <br>
+  : [Independent Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+: *Student Names-Cities*
 
 
 

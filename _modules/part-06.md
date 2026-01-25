@@ -14,8 +14,9 @@ Apr 22
 
 Apr 24
 : **Resilient Cities Series #8** <br>
-: **Student Presentations**{: .label .label-stone } <br>
-*Student Names-Cities*
+: **Student-Led Discussions**{: .label .label-stone } <br>
+  : [Independent Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+: *Student Names-Cities*
 
 
 
