@@ -12,10 +12,11 @@ This indenpendent research introduces students to the 100 Resilient Cities (100R
 
 By conducting their own comparative research and learning from peers' presentations, students will develop a broader understanding of urban resilience as a multi-dimensional concept that integrates environmental, social, economic, and institutional perspectives. 
 
-## Presentation Requirement (15 minutes)
+## Presentation (15 minutes)
 
-The presentation should focus on comparison, not description alone. Students are encouraged to use slides, diagrams, or tables. 
+Students are encouraged to use slides, diagrams, tables or other visual materials as appropriate. There is no required presentation format. You are free to organize and communicate your analysis in a way best supports your argument, as long as the components below are clearly addressed. 
 
+Your presentation should address all of the following areas:
 - City Context 
     - Basic information on each city (location, population, major environmental risks)
     - Why these risks matter for the city
@@ -27,9 +28,13 @@ The presentation should focus on comparison, not description alone. Students are
     - What differences stand out, and why they might exist
 - Reflection
     - What tensions, limitations, or challenges can you identify
-    - Select one resilience strategy from either of the two cities and address how this strategy could be translated into a concrete design intervention (e.g., public space, street, building, landscape, or infrastructure element)
+    - Selection of one resilience strategy from either city and a discussion of how it could be translated into a concrete design intervention (e.g., public space, street, building, landscape, or infrastructure element)
 
-## Essay Requirement 
+    ### Submission Deadline
+
+Presentation materials (slides or other visual materials) are due by **11:59 PM on the day of your presentation**. 
+
+## Essay 
 
 ### Prompt
 
@@ -37,7 +42,7 @@ The essay should expand on the presentation and address the following:
 - Resilience priorities and strategies for each city
 - key similarities and differences in strategies across the two cities
 - Observed synergies (where strategies address multiple goals)
-- observed trade-offs or tensions (e.g., equity vs. infrastructure, short-term vs. long-term goals)
+- Observed trade-offs or tensions (e.g., equity vs. infrastructure, short-term vs. long-term goals)
 
 ### Format requirement
 
@@ -46,3 +51,7 @@ The essay should expand on the presentation and address the following:
 - Times New Roman in 12 point or similar 
 - [APA Citation Guide (WL's cheat sheet)]({{ site.baseurl }}/assets/pdfs/apaguidewl.pdf), [APA Citation Guide by OU Writing Center](https://www.ou.edu/content/dam/writingcenter/docs/writing-guides/APA-citation-guide.pdf)
 - Microsoft Word or a Word compatible file (.doc or .docx)
+
+### Submission Deadline
+
+Essay is due by **11:59 PM on the Monday** following your presentation. 
