@@ -104,7 +104,7 @@ Active participation and engagement are essential to the learning objectives of 
 
 Lab sessions are primarily structured as in-class time for creative and collaborative work. Students are expected to come prepared with basic design supplies and tools, such as paper, pens, markers, iPads, or laptops, whichever tools they feel most comfortable using to communicate design ideas. **No prior design experience or specialized skill set is required.** However, students are expected to actively learn design fundamentals throughout the semester and to contribute meaningfully to their individual and group work.
 
-### Student-Led Sessions
+### Student-Led Discussions
 
 The Resilient Cities series consists of student-led class sessions. Each student is required to select two cities, one from the Global North and one from the Global South, and deliver a comparative presentation based on the cities’ resilient cities reports. Students will sign up for their selected cities and presentation week. Two students will present during each session. Active participation as both presenter and audience member is expected. Because presentations are scheduled across different weeks throughout the semester, **the comparative summary essay will be due on the Monday following each student’s presentation.**
 
