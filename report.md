@@ -12,7 +12,7 @@ This indenpendent research introduces students to the [100 Resilient Cities](htt
 
 By conducting your own comparative research and learning from peers' presentations, you will develop a broader understanding of urban resilience as a multi-dimensional concept that integrates environmental, social, economic, and institutional perspectives. 
 
-## Student-Led Discussions (15 minutes)
+## Student-Led Discussions (20 minutes)
 
 You are encouraged to use slides, diagrams, tables or other visual materials as appropriate. There is no required presentation format. You are free to organize and communicate your analysis in a way best supports your argument, as long as the components below are clearly addressed. 
 
