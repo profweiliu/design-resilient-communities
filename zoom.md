@@ -18,7 +18,7 @@ Please refer to class announcements for any updates regarding class modality.
 Get into the **[Zoom Classroom](https://oklahoma.zoom.us/j/3919969054?pwd=gHyc3JSGHoA9eptgVARNkmIdsOYkXg.1)** <br>
 
 Join Zoom Meeting <br>
-(https://oklahoma.zoom.us/j/3919969054?pwd=gHyc3JSGHoA9eptgVARNkmIdsOYkXg.1) <br>
+[https://oklahoma.zoom.us/j/3919969054?pwd=gHyc3JSGHoA9eptgVARNkmIdsOYkXg.1](https://oklahoma.zoom.us/j/3919969054?pwd=gHyc3JSGHoA9eptgVARNkmIdsOYkXg.1) <br>
 
 Meeting ID: 391 996 9054 <br>
 Passcode: 85581838 <br>
@@ -32,5 +32,5 @@ Join by SIP <br>
 Passcode: 85581838 <br>
 
 Join instructions <br>
-(https://oklahoma.zoom.us/meetings/3919969054/invitations?signature=OaL5_tIwiXa7Jj46xxL8R9fHHwp7S3-iJgNEM-sJvZw)
+[https://oklahoma.zoom.us/meetings/3919969054/invitations?signature=OaL5_tIwiXa7Jj46xxL8R9fHHwp7S3-iJgNEM-sJvZw](https://oklahoma.zoom.us/meetings/3919969054/invitations?signature=OaL5_tIwiXa7Jj46xxL8R9fHHwp7S3-iJgNEM-sJvZw)
 
