@@ -15,7 +15,7 @@ Apr 1
 Apr 3
 : **Resilient Cities Series #5** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
-  : [Independent Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+  : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
 : *Student Names-Cities*
 
 
@@ -31,7 +31,7 @@ Apr 8
 Apr 10
 : **Resilient Cities Series #6** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
-  : [Independent Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+  : [IResearch Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
 : *Student Names-Cities*
 
 
@@ -47,7 +47,7 @@ Apr 15
 Apr 17
 : **Resilient Cities Series #7** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
-  : [Independent Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+  : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
 : *Student Names-Cities*
 
 
