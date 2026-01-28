@@ -32,7 +32,7 @@ By the end of the project, student teams will produce a set of integrated design
 - **A Programming Diagram****, illustrating permanent, seasonal, and flexible uses (8.5 in. x 8.5 in. full-page layout)
 - **A Matrix of Resilient Design and Planning Strategies**, explicitly mapping recommendations to the community goals (matrix template will be provided). 
 
-## Rubric
+## Evaluation Rubric Statement
 
 While grounded in a real-world community context, proposals are evaluated based on how clearly, convincingly, and visually the narrative, site plan, programming, and resilient strategies advance the stated community goals.
 
