@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: Final Project
+title: Project
 ---
 
 {% include course_header.html %}
