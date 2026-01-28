@@ -32,3 +32,7 @@ By the end of the project, student teams will produce a set of integrated design
 - A Matrix of Resilient Design and Planning Strategies, explicitly mapping recommendations to the community goals. 
 
 While grounded in a real-world community context, proposals are evaluated based on how clearly, convincingly, and visually the narrative, site plan, programming, and resilient strategies advance the stated community goals.
+
+## Project Groups
+
+Students will be organized into two groups, with seven students in each group. Prior to group formation, students will complete a brief survey assessing their skill sets and prior experience. Based on the survey results, the instructor will form the two groups to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
