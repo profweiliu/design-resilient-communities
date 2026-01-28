@@ -38,7 +38,7 @@ While grounded in a real-world community context, proposals are evaluated based 
 
 ## Project Groups
 
-Students will be organized into two groups, with seven students in each group. Prior to group formation, students will complete a brief survey assessing their skill sets and prior experience. Based on the survey results, the instructor will form the two groups to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
+Students will be organized into two groups, with seven students in each group. Prior to group formation, students will complete a [brief survey](https://qualtrics.ou.edu/jfe/form/SV_4HGn4kYh5dWGGDc) assessing their skill sets and prior experience. Based on the survey results, the instructor will form the two groups to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
 
 ---
 
