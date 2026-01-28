@@ -27,6 +27,7 @@ Your proposals should explicitly respond to the following community goals:
 By the end of the project, student teams will produce a set of integrated design recommendations that include:
 - **An Executive Summary** (200 words max.)
 - **A Resilience Statement** (50 words max.) clearly articulating how the proposal supports community resilience
+- **A Existing Condition Illustration**, including visual and narrative
 - **A Rendered Proposed Site Plan**, including adjacent streets and alleys (8.5 in. x 8.5 in. full-page layout)
 - **A Programming Diagram****, illustrating permanent, seasonal, and flexible uses (8.5 in. x 8.5 in. full-page layout)
 - **A Matrix of Resilient Design and Planning Strategies**, explicitly mapping recommendations to the community goals (matrix template will be provided). 
