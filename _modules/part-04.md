@@ -12,7 +12,7 @@ Feb 23
 
 Feb 25
 : **Lab 5: Synthesize Findings** <br>
-: **ASSIGNMENT 3 DUE AT 11:59 AM**{: .label .label-red } <br>
+: **ASSIGNMENT 3 DUE AT 11:59 PM**{: .label .label-red } <br>
   : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-3-refining-your-thinking) <br>
 
 Feb 27

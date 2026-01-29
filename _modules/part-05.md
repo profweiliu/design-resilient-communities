@@ -10,7 +10,7 @@ Mar 30
 
 Apr 1
 : **Lab 7: Group Work** <br>
-: **ASSIGNMENT 4 DUE AT 11:59 AM**{: .label .label-red } <br>
+: **ASSIGNMENT 4 DUE AT 11:59 PM**{: .label .label-red } <br>
 
 Apr 3
 : **Resilient Cities Series #5** <br>
@@ -42,7 +42,7 @@ Apr 13
 
 Apr 15
 : **Lab 9: Group Work** <br>
-: **ASSIGNMENT 5 DUE AT 11:59 AM**{: .label .label-red } <br>
+: **ASSIGNMENT 5 DUE AT 11:59 PM**{: .label .label-red } <br>
 
 Apr 17
 : **Resilient Cities Series #7** <br>

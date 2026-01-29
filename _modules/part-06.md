@@ -27,7 +27,7 @@ Apr 27
 
 Apr 29
 : **Lab 11: Group Work** <br>
-: **ASSIGNMENT 6 DUE AT 11:59 AM**{: .label .label-red } <br>
+: **ASSIGNMENT 6 DUE AT 11:59 PM**{: .label .label-red } <br>
 
 May 1
 : **Lab 12: Group Work** <br>

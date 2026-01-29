@@ -12,7 +12,7 @@ Jan 26
 
 Jan 28
 : **Lab 1: Introduce the Final Project** <br>
-: **ASSIGNMENT 1 DUE AT 11:59 AM**{: .label .label-red } <br>
+: **ASSIGNMENT 1 DUE AT 11:59 PM**{: .label .label-red } <br>
   : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-1-initial-reflection-on-resilient-communities) <br>
 
 Jan 30
