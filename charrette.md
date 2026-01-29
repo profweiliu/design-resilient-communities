@@ -54,7 +54,7 @@ title: Charrette
   <tr>
     <td></td>
     <td>
-      The charrette begins with an introduction to the City of Durant study area, including site boundaries, key context, and the overall charrette structure. Students are introduced to the City Resilience Framework (CRF) and its four dimensions: <br>Health & Wellbeing <br>Economy & Society <br>Infrastructure & Environment <br>Leadership & Planning. <br>
+      The charrette begins with an introduction to the City of Durant study area, including site boundaries, key context, and the overall charrette structure. Students are introduced to the City Resilience Framework (CRF) and its four dimensions: <br>1. Health & Wellbeing <br>2. Economy & Society <br>3. Infrastructure & Environment <br>4. Leadership & Planning <br>
       <em>Location:</em> Gould Hall 130 Gallery
     </td>
   </tr>
