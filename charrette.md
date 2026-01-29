@@ -70,7 +70,6 @@ title: Charrette
       TBD
     </td>
   </tr>
-    </tr>
     <tr>
     <td style="width:140px; vertical-align:top; font-weight:600;">
       4:30 PM
@@ -85,19 +84,12 @@ title: Charrette
       TBD
     </td>
   </tr>
-    </tr>
     <tr>
     <td style="width:140px; vertical-align:top; font-weight:600;">
       6:00 PM
     </td>
     <td style="vertical-align:top;">
       <strong>Wrap-Up Charrette Day 1</strong>
-    </td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>
-      TBD
     </td>
   </tr>
 </table>
