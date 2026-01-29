@@ -95,7 +95,13 @@ title: Charrette
   <tr>
     <td></td>
     <td>
-      TBD
+      Students will pin-up their findings & present their concept designs. 
+    </td>
+  </tr>
+    <tr>
+    <td></td>
+    <td>
+      Negotiation of concepts across the three scales. 
     </td>
   </tr>
     <tr>
