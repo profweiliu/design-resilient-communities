@@ -61,13 +61,13 @@ title: Charrette
       1:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Research Challenge #1</strong>
+      <strong>Research Challenge #1: City Resilience Framework Research</strong>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>
-      TBD
+      In teams of 3, students are challenged to create quantifiable design parameters for one of the identified city resilience goals. <br> Groups will evaluate their chosen goals at 3 distinct scales: <br> 1. City/Community <br> 2. Neighborhood/District <br> Block/Street/Building
     </td>
   </tr>
   <tr>
