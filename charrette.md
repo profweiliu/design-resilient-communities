@@ -3,13 +3,22 @@ layout: minimal
 title: Charrette
 ---
 
+<button id="toc-toggle"><i class="fa-solid fa-bars"></i></button>
+1. TOC
+{:toc}
+
 {% include course_header.html %}
 # Resilient Durant: <br> A Multi-Scalar Resilience Framework
 {:.no_toc}
 
 ![Resilient Durant Charrette](/assets/images/crf2024.png)
 
+## Charrette Lead
+Victor Dover, FAICP, LEED-AP, CNU Fellow
+Founding Principal of Dover, Kohl & Partners
 
+Dr. Wei Liu, AICP, CNU-A
+Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Schedule & Program
 
