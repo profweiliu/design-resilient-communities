@@ -37,44 +37,70 @@ Charrette Day 1 (Friday, March 6, 2026)
   <tr>
     <td></td>
     <td>
-      <em>Location:</em> Location: Gould Hall Living Room
+      <em>Location:</em> Gould Hall Living Room
     </td>
   </tr>
-</table>
-
-**12:30 PM** | Reception
-| Location: Gould Hall Living Room
-**1:00 PM** | Project Brief
-**1:30 PM** | Research Challenge #1
-**4:30 PM** | Concept Review & Negotiations
-**6:00 PM** | Wrap-Up Charrette Day 1
-
-
-**11:30** | **Public Lecture** <br>
-| Victor Dover, FAICP, LEED-AP, CNU Fellow, Founding Principal of Dover, Kohl & Partners
-| Location: Gould Hall 130 Gallary
-**12:30** | Reception
-| Location: Gould Hall Living Room
-**13:00** | Project Brief
-**13:30** | Research Challenge #1
-**16:30** | Concept Review & Negotiations
-**18:00** | Wrap-Up Charrette Day 1
-
-<table style="border-collapse:collapse;">
-  <tr>
+    <tr>
     <td style="width:140px; vertical-align:top; font-weight:600;">
-      11:30 AM
+      1:00 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Public Lecture</strong>
+      <strong>Project Brief</strong>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>
-      Victor Dover, FAICP, LEED-AP, CNU Fellow, Founding Principal of Dover, Kohl & Partners<br>
+      TBD<br>
       <em>Location:</em> Gould Hall 130 Gallery
     </td>
   </tr>
+    <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      1:30 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Research Challenge #1</strong>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      TBD
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      4:30 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Concept Review & Negotiations</strong>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      TBD
+    </td>
+  </tr>
+    </tr>
+    <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      6:00 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Wrap-Up Charrette Day 1</strong>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      TBD
+    </td>
+  </tr>
 </table>
+
+
+
 
