@@ -55,3 +55,25 @@ The essay should expand on your presentation and address the following:
 ### Submission Deadline
 
 Essay is due by **11:59 PM on the Monday** following your presentation. 
+
+---
+
+## Resilient Cities
+
+**Student Names** | **Global North Cities** | **Global South Cities**
+x | Kyoto, Japan          | Accra, Ghana 
+x | London, United Kingdom | Addis Ababa, Ethiopia
+x | Melbourne, Australia      | Bangkok, Thailand
+x | Miami, United States  | Buenos Aires, Argentina
+x | New York City, United States  | Cali, Colombia 
+x | Paris, France         | Cape Town, South Africa 
+x | Rome, Italy          | Chennai, India  
+x | Rotterdam, Netherlands    | Da Nang, Vietnam 
+x | Seoul, South Korea    | Dakar, Senegal 
+x | Singapore, Singapore      | Huangshi, China  
+x | St. Louis, United States  | Melaka, Malaysia 
+x | Toronto, Canada         | Mexico City, Mexico  
+x | Tulsa, United States  | Rio de Janeiro, Brazil  
+x | Vancouver, Canada         | Santiago, Chile 
+
+
