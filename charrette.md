@@ -24,7 +24,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ### Friday, March 6, 2026: The Resilience Diagnosis
 
-**Goal:** Students become experts in dimensions of the City Resilient Framework (CRF) and establish resilient design parameters. 
+*Goal: Students become experts in dimensions of the City Resilient Framework (CRF) and establish resilient design parameters.* 
 
 <table style="border-collapse:collapse;">
   <tr>
@@ -124,7 +124,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ### Saturday, March 7, 2026: The Resilient Masterplan
 
-**Goal:** Students form new teams to synthesize the agreed-upon criteria into a cohesive spatial masterplan for the City of Durant.
+*Goal: Students form new teams to synthesize the agreed-upon criteria into a cohesive spatial masterplan for the City of Durant.*
 
 <table style="border-collapse:collapse;">
     <tr>
