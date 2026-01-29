@@ -75,13 +75,13 @@ title: Charrette
       3:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Research Challenge #2</strong>
+      <strong>Research Challenge #2: "Cheat Sheet" Creation</strong>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>
-      TBD
+      Student groups must produce a 1-page "Cheat Sheet", which will be their tool for Day 2. It must list the "Must-Haves" for a Resilient Durant based on their dimension (e.g., "The plan must include 30% green space coverage" or "The plan must ensure safe routes to schools"). 
     </td>
   </tr>
     <tr>
