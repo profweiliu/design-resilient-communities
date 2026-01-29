@@ -61,7 +61,7 @@ title: Charrette
       1:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Research Challenge #1</strong>
+      <strong>Research Challenge</strong>
     </td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@ title: Charrette
       1:00 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Project Brief</strong>
+      <strong>Re-shuffling & Briefing</strong>
     </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ title: Charrette
       1:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Research Challenge #1</strong>
+      <strong>Design Challenge</strong>
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ title: Charrette
       4:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Concept Review & Negotiations</strong>
+      <strong>Final Presentation & Matrix Formation</strong>
     </td>
   </tr>
   <tr>
