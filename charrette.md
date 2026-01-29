@@ -20,6 +20,11 @@ Charrette Day 1 (Friday, March 6, 2026)
 |----|---------|
 |<img width=200/>|<img width=500/>|
 
+| Time | Event |
+|------|-------|
+| <div style="width:120px"><strong>11:30 AM</strong></div> | **Public Lecture**<br>Victor Dover |
+
+
 
 **11:30 AM** | **Public Lecture** <br>
 | Victor Dover 
