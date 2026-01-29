@@ -9,11 +9,6 @@ title: Charrette
 
 ![Resilient Durant Charrette](/assets/images/crf2024.png)
 
-<p align="center">
-  <img src="/assets/images/crf2024.png"
-       alt="Resilient Durant Charrette"
-       width="500">
-</p>
 
 
 ## Schedule & Program
