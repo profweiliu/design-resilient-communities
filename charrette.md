@@ -11,7 +11,7 @@ title: Charrette
 # Resilient Durant: <br> A Multi-Scalar Resilience Framework
 {:.no_toc}
 
-![Resilient Durant Charrette](/assets/images/cover.png)
+![Resilient Durant Charrette](/assets/images/poster.png)
 
 ## Charrette Lead
 Victor Dover, FAICP, LEED-AP, CNU Fellow <br>
