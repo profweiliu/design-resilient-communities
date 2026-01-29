@@ -61,7 +61,21 @@ title: Charrette
       1:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Research Challenge</strong>
+      <strong>Research Challenge #1</strong>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      TBD
+    </td>
+  </tr>
+  <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      3:30 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Research Challenge #2</strong>
     </td>
   </tr>
   <tr>
@@ -117,7 +131,21 @@ title: Charrette
       1:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Design Challenge</strong>
+      <strong>Design Challenge #1</strong>
+    </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      TBD
+    </td>
+  </tr>
+  <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      3:30 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Design Challenge #2</strong>
     </td>
   </tr>
   <tr>
