@@ -11,6 +11,8 @@ title: Charrette
 
 ### Friday, March 6, 2026
 
+**Goal:** Students become experts in one dimension of the City Resilient Framework (2024) and audit the City of Durant to create design parameters.
+
 <table style="border-collapse:collapse;">
   <tr>
     <td style="width:140px; vertical-align:top; font-weight:600;">
@@ -67,7 +69,7 @@ title: Charrette
   <tr>
     <td></td>
     <td>
-      In teams of 3, students are challenged to create quantifiable design parameters for one of the identified city resilience goals. <br> Groups will evaluate their chosen goals at 3 distinct scales: <br> 1. City/Community <br> 2. Neighborhood/District <br> Block/Street/Building
+      In teams of 3, students are challenged to create quantifiable design parameters for one of the identified city resilience goals. <br> Groups will evaluate their chosen goals at 3 distinct scales: <br> 1. City/Community <br> 2. Neighborhood/District <br> 3. Block/Street/Building
     </td>
   </tr>
   <tr>
@@ -110,6 +112,8 @@ title: Charrette
 
 ### Saturday, March 7, 2026
 
+**Goal:** Students form new teams to create a masterplan for the Durant site that integrates all four resilience dimensions.
+
 <table style="border-collapse:collapse;">
     <tr>
     <td style="width:140px; vertical-align:top; font-weight:600;">
@@ -122,7 +126,7 @@ title: Charrette
   <tr>
     <td></td>
     <td>
-      TBD<br>
+      Form 3 Design Teams of 11 students. Each new team must contain at least one member from each of the Day 1 Research Groups, so every design team now has a "resident expert" for every scale of the city.<br>
       <em>Location:</em> Gould Hall 130 Gallery
     </td>
   </tr>
@@ -131,13 +135,13 @@ title: Charrette
       1:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Design Challenge #1</strong>
+      <strong>Design Challenge #1: The Resilient Masterplan</strong>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>
-      TBD
+      Design teams develop masterplan that must fit "Must-Haves" from Day 1 into a single cohesive plan. 
     </td>
   </tr>
   <tr>
@@ -145,13 +149,13 @@ title: Charrette
       3:30 PM
     </td>
     <td style="vertical-align:top;">
-      <strong>Design Challenge #2</strong>
+      <strong>Design Challenge #2: Gap Analysis</strong>
     </td>
   </tr>
   <tr>
     <td></td>
     <td>
-      TBD
+      Stop designing, exchange plans with another team and use City Resilient Framework as a checklest (e.g., "Does this plan meet Goal 5?" or "Does it meet Goal 9?")
     </td>
   </tr>
     <tr>
@@ -165,7 +169,7 @@ title: Charrette
   <tr>
     <td></td>
     <td>
-      TBD
+      Student teams conduct 15-minute presentation per team of how their design not just as "design interventions," but as a resilient system that addresses the 4 Dimensions of the City Resilient Framework. <br> Then, the students come together to complete the resilient matrix for Durant.
     </td>
   </tr>
     <tr>
