@@ -10,22 +10,7 @@ title: Charrette
 Charrette Day 1 (Friday, March 6, 2026)
 
 
-
-| <div style="width: 150px;">Header 1 (Wide)</div> | <div style="width: 50px;">Header 2 (Narrow)</div> | Header 3 (Auto) |
-| :--- | :--- | :--- |
-| Cell A | Cell B | Cell C |
-| More Content | Less | Data |
-
-|Name|Value|
-|----|---------|
-|<img width=200/>|<img width=500/>|
-
-| Time | Event |
-|------|-------|
-| <div style="width:120px"><strong>11:30 AM</strong></div> | **Public Lecture**<br>Victor Dover |
-
-
-
 **11:30 AM** | **Public Lecture** <br>
-| Victor Dover 
+| Victor Dover, FAICP, LEED-AP, CNU Fellow, Founding Principal of Dover, Kohl & Partners
+| Location: Gould Hall RM 130 Gallary
 
