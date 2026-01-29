@@ -7,8 +7,9 @@ title: Charrette
 # Charrette
 {:.no_toc}
 
-Charrette Day 1 (Friday, March 6, 2026)
+## Schedule & Program
 
+### Friday, March 6, 2026
 
 <table style="border-collapse:collapse;">
   <tr>
