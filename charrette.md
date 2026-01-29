@@ -4,7 +4,7 @@ title: Charrette
 ---
 
 {% include course_header.html %}
-# RResilient Durant: A Multi-Scalar Resilience Framework
+# Resilient Durant: <br> A Multi-Scalar Resilience Framework
 {:.no_toc}
 
 ## Schedule & Program
