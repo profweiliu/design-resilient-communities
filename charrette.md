@@ -10,7 +10,7 @@ title: Charrette
 Charrette Day 1 (Friday, March 6, 2026)
 
 
-**11:30 AM** | **Public Lecture** <br>
+**11:30 AM** | **Public Lecture** <br> Victor Dover, FAICP, LEED-AP, CNU Fellow, Founding Principal of Dover, Kohl & Partners
 | Victor Dover, FAICP, LEED-AP, CNU Fellow, Founding Principal of Dover, Kohl & Partners
 | Location: Gould Hall 130 Gallary
 **12:30 PM** | Reception
