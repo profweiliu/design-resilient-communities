@@ -9,5 +9,14 @@ title: Charrette
 
 Charrette Day 1 (Friday, March 6, 2026)
 
+
+
+| <div style="width: 150px;">Header 1 (Wide)</div> | <div style="width: 50px;">Header 2 (Narrow)</div> | Header 3 (Auto) |
+| :--- | :--- | :--- |
+| Cell A | Cell B | Cell C |
+| More Content | Less | Data |
+
+
 **11:30 AM** | **Public Lecture** <br>
 | Victor Dover 
+
