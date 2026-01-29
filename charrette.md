@@ -14,10 +14,10 @@ title: Charrette
 ![Resilient Durant Charrette](/assets/images/crf2024.png)
 
 ## Charrette Lead
-Victor Dover, FAICP, LEED-AP, CNU Fellow
+Victor Dover, FAICP, LEED-AP, CNU Fellow <br>
 Founding Principal of Dover, Kohl & Partners
 
-Dr. Wei Liu, AICP, CNU-A
+Dr. Wei Liu, AICP, CNU-A <br>
 Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Schedule & Program
