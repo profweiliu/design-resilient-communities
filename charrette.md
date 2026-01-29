@@ -16,6 +16,10 @@ Charrette Day 1 (Friday, March 6, 2026)
 | Cell A | Cell B | Cell C |
 | More Content | Less | Data |
 
+|Name|Value|
+|----|---------|
+|<img width=200/>|<img width=500/>|
+
 
 **11:30 AM** | **Public Lecture** <br>
 | Victor Dover 
