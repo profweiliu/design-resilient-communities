@@ -4,8 +4,7 @@ title: Charrette
 ---
 
 {% include course_header.html %}
-# Charrette: Resilient Durant
-**Multi-Scalar Resilience using the City Resilience Framework**
+# Resilient Durant: Multi-Scalar Resilience using the City Resilience Framework
 {:.no_toc}
 
 ## Schedule & Program
