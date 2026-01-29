@@ -7,4 +7,7 @@ title: Charrette
 # Charrette
 {:.no_toc}
 
-Details will be provided soon. 
+Charrette Day 1 (Friday, March 6, 2026)
+
+**11:30 AM** | **Public Lecture** <br>
+| Victor Dover 
