@@ -7,6 +7,8 @@ title: Charrette
 # Resilient Durant: <br> A Multi-Scalar Resilience Framework
 {:.no_toc}
 
+![Resilient Durant Charrette](/assets/images/crf2024.png)
+
 ## Schedule & Program
 
 ### Friday, March 6, 2026: The Resilience Diagnosis
