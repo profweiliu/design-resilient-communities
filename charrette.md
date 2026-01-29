@@ -67,8 +67,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
   <tr>
     <td></td>
     <td>
-      The charrette begins with an introduction to the City of Durant study area, including site boundaries, key context, and the overall charrette structure. Students are introduced to the City Resilience Framework (CRF) and its four dimensions: <br>1. Health & Wellbeing <br>2. Economy & Society <br>3. Infrastructure & Environment <br>4. Leadership & Planning <br>
-      <em>Location:</em> Gould Hall 130 Gallery
+      The charrette begins with an introduction to the City of Durant study area, including site boundaries, key context, and the overall charrette structure. Students are introduced to the City Resilience Framework (CRF) and its four dimensions: <br>1. Health & Wellbeing <br>2. Economy & Society <br>3. Infrastructure & Environment <br>4. Leadership & Planning 
     </td>
   </tr>
     <tr>
@@ -139,8 +138,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
   <tr>
     <td></td>
     <td>
-      Students reprganize into design teams of approximately eleven members. Each team must include at least one "resident export" from each of the CRF goals developed on Day 1. <br>
-      <em>Location:</em> Gould Hall 130 Gallery
+      Students reprganize into design teams of approximately eleven members. Each team must include at least one "resident export" from each of the CRF goals developed on Day 1. 
     </td>
   </tr>
     <tr>
