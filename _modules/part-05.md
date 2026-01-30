@@ -32,7 +32,7 @@ Apr 8
 Apr 10
 : **Resilient Cities Series #6** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
-  : [IResearch Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
+  : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
 : *Jonathan Coerver (Singapore, Singapore & Huangshi, China)* <br>
 
 
