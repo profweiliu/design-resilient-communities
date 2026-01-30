@@ -16,7 +16,8 @@ Apr 3
 : **Resilient Cities Series #5** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
-: *Student Names-Cities*
+: *Noah Batson (Paris, France & Cape Town, South Africa)* <br>
+*Christian Forbes (Rome, Italy & Chennai, India)
 
 
 
@@ -32,7 +33,8 @@ Apr 10
 : **Resilient Cities Series #6** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [IResearch Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
-: *Student Names-Cities*
+: *Jonathan Coerver (Singapore, Singapore & Huangshi, China)* <br>
+
 
 
 
@@ -48,7 +50,8 @@ Apr 17
 : **Resilient Cities Series #7** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
-: *Student Names-Cities*
+: *Ayden Trull (Toronto, Canada & Mexico City, Mexico)* <br>
+*Jacob Ulrich (Miami, United States & Buenos Aires, Argentina)
 
 
 

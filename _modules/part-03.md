@@ -18,7 +18,8 @@ Feb 13
 : **Resilient Cities Series #3** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
-: *Student Names-Cities*
+: *Roman Johnson (Vancouver, Canada & Santiago, Chile)* <br>
+*Betty - Sue Kihunrwa (Seoul, South Korea & Dakar, Senegal)
 
 
 
@@ -33,8 +34,8 @@ Feb 18
 Feb 20
 : **Resilient Cities Series #4** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
-  : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
-: *Student Names-Cities*
+: *Bergin Kysar (Tulsa, United States & Rio de Janeiro, Brazil)* <br>
+*Mason Queen (Kyoto, Japan & Accra, Ghana)
 
 
 

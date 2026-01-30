@@ -35,7 +35,8 @@ Feb 6
 : **Resilient Cities Series 2** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
-: *Student Names-Cities*
+: *Kristen Bokker (Rotterdam, Netherlands & Da Nang, Vietnam)* <br>
+*Ethan Sayadeth (Melbourne, Australia & Bangkok, Thailand)
 
 
 
