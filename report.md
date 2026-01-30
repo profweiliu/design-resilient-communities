@@ -74,3 +74,5 @@ x | St. Louis, United States  | Melaka, Malaysia
 Ayden Trull | Toronto, Canada         | Mexico City, Mexico  
 Bergin Kysar | Tulsa, United States  | Rio de Janeiro, Brazil  
 Roman Johnson | Vancouver, Canada         | Santiago, Chile 
+
+Access to the Resilient Cities Reports: [Click Here](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgBVQWR6qMMTSZKP-mTQR4-dAR2_A3tORnpdvQOu8i2SgZc?e=ydAj4J)
