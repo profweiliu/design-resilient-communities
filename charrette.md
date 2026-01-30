@@ -8,7 +8,7 @@ title: Charrette
 {:toc}
 
 {% include course_header.html %}
-# Resilient Durant: <br> A Multi-Scalar Resilience Framework
+# Resilient Durant: <br> A Multi-Scalar Resilience Framework <br> This Page is Under Developing
 {:.no_toc}
 
 ![Resilient Durant Charrette](/assets/images/poster.png)
