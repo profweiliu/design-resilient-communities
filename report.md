@@ -65,7 +65,6 @@ x | Kyoto, Japan          | Accra, Ghana
 x | London, United Kingdom | Addis Ababa, Ethiopia
 x | Melbourne, Australia      | Bangkok, Thailand
 x | Miami, United States  | Buenos Aires, Argentina
-x | New York City, United States  | Cali, Colombia 
 x | Paris, France         | Cape Town, South Africa 
 x | Rome, Italy          | Chennai, India  
 x | Rotterdam, Netherlands    | Da Nang, Vietnam 
@@ -75,5 +74,3 @@ x | St. Louis, United States  | Melaka, Malaysia
 x | Toronto, Canada         | Mexico City, Mexico  
 x | Tulsa, United States  | Rio de Janeiro, Brazil  
 x | Vancouver, Canada         | Santiago, Chile 
-
-
