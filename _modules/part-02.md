@@ -36,7 +36,7 @@ Feb 6
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
 : *Kristen Bokker (Rotterdam, Netherlands & Da Nang, Vietnam)* <br>
-*Ethan Sayadeth (Melbourne, Australia & Bangkok, Thailand)
+*Ethan Sayadeth (Melbourne, Australia & Bangkok, Thailand)*
 
 
 
