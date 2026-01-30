@@ -61,16 +61,16 @@ Essay is due by **11:59 PM on the Monday** following your presentation.
 ## Resilient Cities
 
 **Student Names** | **Global North Cities** | **Global South Cities**
-x | Kyoto, Japan          | Accra, Ghana 
+Mason Queen | Kyoto, Japan          | Accra, Ghana 
 x | London, United Kingdom | Addis Ababa, Ethiopia
-x | Melbourne, Australia      | Bangkok, Thailand
-x | Miami, United States  | Buenos Aires, Argentina
-x | Paris, France         | Cape Town, South Africa 
-x | Rome, Italy          | Chennai, India  
-x | Rotterdam, Netherlands    | Da Nang, Vietnam 
-x | Seoul, South Korea    | Dakar, Senegal 
-x | Singapore, Singapore      | Huangshi, China  
+Ethan Sayadeth | Melbourne, Australia      | Bangkok, Thailand
+Jacob Ulrich | Miami, United States  | Buenos Aires, Argentina
+Noah Batson | Paris, France         | Cape Town, South Africa 
+Christian Forbes | Rome, Italy          | Chennai, India  
+Kristen Bokker | Rotterdam, Netherlands    | Da Nang, Vietnam 
+Betty - Sue Kihunrwa | Seoul, South Korea    | Dakar, Senegal 
+Jonathan Coerver | Singapore, Singapore      | Huangshi, China  
 x | St. Louis, United States  | Melaka, Malaysia 
-x | Toronto, Canada         | Mexico City, Mexico  
-x | Tulsa, United States  | Rio de Janeiro, Brazil  
-x | Vancouver, Canada         | Santiago, Chile 
+Ayden Trull | Toronto, Canada         | Mexico City, Mexico  
+Bergin Kysar | Tulsa, United States  | Rio de Janeiro, Brazil  
+Roman Johnson | Vancouver, Canada         | Santiago, Chile 
