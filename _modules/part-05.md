@@ -34,6 +34,7 @@ Apr 10
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
 : *Jonathan Coerver (Singapore, Singapore & Huangshi, China)* <br>
+*Russan Missouri (St. Louis, United States & Melaka, Malaysia)* 
 
 
 
