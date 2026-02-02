@@ -25,6 +25,7 @@ Jan 30
 
 Feb 2
 : **Lecture: Climate Risk, Vulnerability, and Place** <br>
+  : [Slides](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDIklQBXJD7RZ_6Rc4-ZRKDAZaG_6lymw1p8DamCRIOkUk?e=4dqRC0) <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 1. Calthorpe. (2011). Urbanism in the Age of Climate Change.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBUk2vT-O6FRZQzcxBzLkuEAbGJgElp_OhRV3pbNa8m4ks?e=373Utj){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[World Economic Forum (2026). The Global Risks Report 2026](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCoLrbgEMKiTKuEASA7jE3kAfyB99w76Zx47cF_mWjN56g?e=P2gUri){: .citation}  <br>
 
