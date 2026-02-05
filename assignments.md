@@ -48,7 +48,7 @@ Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**.
 
 ### Prompt  
 
-At this stage of the semester, you have been introduced to the final project and the community context, and you will soon be meeting with community stakeholders for an interview. Ryan Brewer, Parks and Facilities Manager for the City of Durant, will be joining us for this interview.
+At this stage of the semester, you have been introduced to the final project and the community context, and you will soon be meeting with community stakeholders for an interview. [Ryan Brewer](https://www.durant.org/Directory.aspx?did=35), Parks and Facilities Manager for the City of Durant, will be joining us for this interview.
 
 Provide a concise but thoughtful overview explaining why revitalization of this site is necessary. Identify one pressing environmental issue affecting the site, drawing on the framework domains - social, environmental, economic, and institutional, discussed in class. While multiple issues may be present, focus on specifically on an environmental condition, as it is often the most immediately observable and measurable. 
 
