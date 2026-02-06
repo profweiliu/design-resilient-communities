@@ -50,14 +50,9 @@ Assignment 1 is due on **Wednesday, January 28 at 11:59 PM**.
 
 At this stage of the semester, you have been introduced to the final project and the community context, and you will soon be meeting with community stakeholders for an interview. [Ryan Brewer](https://www.durant.org/Directory.aspx?did=35), Parks and Facilities Manager for the City of Durant, will be joining us for this interview.
 
-Provide a concise but thoughtful overview explaining why revitalization of this site is necessary. Identify one pressing environmental issue affecting the site, drawing on the framework domains - social, environmental, economic, and institutional, discussed in class. While multiple issues may be present, focus on specifically on an environmental condition, as it is often the most immediately observable and measurable. 
+Provide a concise but thoughtful overview explaining the physical conditions of the study area and why revitalization of this site is necessary. Identify one pressing environmental issue affecting the site, drawing on the framework domains - social, environmental, economic, and institutional, discussed in class. While multiple issues may be present, focus on specifically on an environmental condition, as it is often the most immediately observable and measurable. 
 
 Next, develop at least three questions you would like to ask community stakeholders during the interview. These questions do not need to be limited to the environmental domain. Instead, they should help you with clarify uncertainties, validate or challenge your initial assumptions, and address gaps in your understanding that will inform your design. 
-
-In your response, you might consider: 
-- Physical conditions of the public space
-- Surrounding activities and circulation patterns
-- How the space is currently used (or underused)
 
 ### Format requirement
 
