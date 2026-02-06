@@ -17,6 +17,7 @@ Apr 24
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
 : *Daniel Chica (Toronto, Canada & Mexico City, Mexico)* <br>
+*Ethan Sayadeth (Melbourne, Australia & Bangkok, Thailand)*
 
 
 
