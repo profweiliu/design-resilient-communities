@@ -30,7 +30,7 @@ Feb 2
 **OPTIONAL**{: .readings .readings-optional }[World Economic Forum (2026). The Global Risks Report 2026](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCoLrbgEMKiTKuEASA7jE3kAfyB99w76Zx47cF_mWjN56g?e=P2gUri){: .citation}  <br>
 
 Feb 4
-: **Lab 2: Understanding the Context** <br>
+: **Lab 2: Understanding Public Space** <br>
 
 Feb 6
 : **Resilient Cities Series 2** <br>
