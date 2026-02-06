@@ -10,7 +10,7 @@ Feb 9
 **OPTIONAL**{: .readings .readings-optional }[Eldesoky & Abdeldayem. (2023). Disentangling the Relationship between Urban Form and Urban Resilience: A Systematic Literature Review](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQB0iLfFwQaBSqDhfLRiS8vNAcvBJtb9U4sA8_drbUu0mTI?e=gkGCT3){: .citation}  <br>
 
 Feb 11
-: **Lab 3: Review & Discussion** <br>
+: **Lab 3: Base Map Exercise & Context Discussion** <br>
 : **ASSIGNMENT 2 DUE AT 11:59 PM**{: .label .label-red } <br>
   : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-2-narrating-your-thoughts) <br>
 
