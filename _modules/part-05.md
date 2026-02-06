@@ -51,7 +51,7 @@ Apr 17
 : **Resilient Cities Series #7** <br>
 : **Student-Led Discussions**{: .label .label-stone } <br>
   : [Research Instruction]({{ site.baseurl }}/report/#comparative-review-of-100-resilient-cities) <br>
-: *Ayden Trull (Toronto, Canada & Mexico City, Mexico)* <br>
+: *Ayden Trull (London, United Kingdom & Addis Ababa, Ethiopia)* <br>
 *Jacob Ulrich (Miami, United States & Buenos Aires, Argentina)*
 
 
