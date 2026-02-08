@@ -6,6 +6,7 @@ title: Module 3 - Mitigation
 
 Feb 9
 : **Lecture: Energy, Carbon, and Urban Form** <br>
+  : [Slides](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAm7kcnfmBaTo2Y1G3lFj6sAclKeYmHzNQmYa-tV85fv08?e=k6ye4B) <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 1. Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[Eldesoky & Abdeldayem. (2023). Disentangling the Relationship between Urban Form and Urban Resilience: A Systematic Literature Review](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQB0iLfFwQaBSqDhfLRiS8vNAcvBJtb9U4sA8_drbUu0mTI?e=gkGCT3){: .citation}  <br>
 
