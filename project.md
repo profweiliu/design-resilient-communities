@@ -66,6 +66,3 @@ In Durant, history and progress move hand in hand—honoring our past while buil
 [**Durant Data Infographics**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgDXiB1b6Rl7TqTzEHKDD_yGAY9oOwteKKb9dKXJ3Vl1sXM?e=cODzkl)<br>
 [**AARP Walk Audit, Durnat, Oklahoma**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAWpBXUEXRPQJmyyj4VQWUVAWzMcwpmZKT2GJLibpXoRLs?e=3pA7qo) <br>
 [**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
-[**Bronco Logistics Unlimited Business Plan**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQBFajuua1mLTK-29IMypYHQASVHLhrJxBsKNyrRVMup0AE?e=dffbU8) <br>
-[**Boys and Girls Club Site and Street Improvements**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCVoAhuWWpqTp0iub-qKFFLARjTELaKiSUubfK3NxvRHj4?e=kUKV7G) <br>
-[**Southeastern Oklahoma State University Campus Master Plan**](https://www.se.edu/campus-master-plan/) 
