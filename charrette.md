@@ -198,19 +198,19 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Research Challenge
 
-**Deliverables:** Working in teams of three, select two goals from the City Resilience Framework listed below. For each goal, develop clear, measurable design parameters across three spatial scales:
+**Deliverables:** Working in teams of three, select two goals from the City Resilience Framework listed below. For each goal, develop clear, measurable design parameters across three spatial scales: <br>
 - **City and Community**
 - **Neighborhood and District**
 - **Block, Street, and Building**
 
 Each team will create a one-page Resilience Cheat Sheet that translates two selected City Resilience Framework goals into three design strategies and measurable performance indicators at three scales: city/community, neighborhood/district, and block/street/building. For example, how a city might support safe and affordable housing through policy and investment, how a neighborhood might strengthen sustainable food access through local systems and services, and how block- or street-level design can improve public safety through the built environment. 
 
-**Not sure about the difference between a strategy and a performance measure?**
+**Not sure about the difference between a strategy and a performance measure?** <br>
 A strategy is the action taken to achieve a goal, while a performance measure is the way success is evaluated or quantified. For example, to improve walkability, a strategy might be building shaded sidewalks, while the corresponding performance measure could be achieving 80% sidewalk shading coverage within 10 years.
 
 **City Resilience Framework** 
 
-**Health & Wellbeing**
+Health & Wellbeing
 - Safe, adequate & affordable housing
 - Clean, affordable & reliable energy
 - Safe water & sanitation
@@ -218,21 +218,21 @@ A strategy is the action taken to achieve a goal, while a performance measure is
 - Sustainable waste & resource management
 - Universal healthcare & social services
 
-**Economy & Society**
+Economy & Society
 - Effective education & skills
 - Community cohesion, equity & inclusion
 - Security & public safety
 - Sustainable economy & livelihoods
 - Fair rule of law
 
-**Infrastructure & Environment**
+Infrastructure & Environment
 - Healthy ecosystems, green spaces & biodiversity
 - Effective operation & maintenance of utilities
 - Sustainable transport & active mobility
 - Protective infrastructure
 - Accessible digital services
 
-**Leadership & Planning**
+Leadership & Planning
 - Accountable local government
 - Inclusive civic engagement & participation
 - Robust municipal finance & city management
@@ -246,7 +246,7 @@ A strategy is the action taken to achieve a goal, while a performance measure is
 
 **Deliverables:** Students will work in three teams, each assigned to one scale **(City & Community; Neighborhood & District; or Block, Street, & Building)**. Each team will develop a resilience-informed design proposal demonstrating how design strategies respond to selected goals from the City Resilience Framework.
 
-All teams should:
+All teams should: <br>
 - identify priority resilience goals relevant to the study area, 
 - translate those goals into spatial and/or policy strategies, and
 - represent those strategies through diagrams and drawings appropriate to their assigned scale.
@@ -339,8 +339,7 @@ Students enrolled in EN D 4970 Design Resilient Communities and EN D 4993 Enviro
 
 The charrette focuses on the rapid development of resilient city design proposals. To support iterative testing, analysis, and refinement over the two-day workshop, work will be completed primarily through analog methods.
 
-Each student should arrive prepared with materials and tools for hand drawing, diagramming, and measuring. Suggested materials include:
-
+Each student should arrive prepared with materials and tools for hand drawing, diagramming, and measuring. Suggested materials include:<br>
 - Trace paper 
 - Enginerring scale
 - Pens with a variety of line weights 
