@@ -198,7 +198,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Design Challenge
 
-**Deliverables:** The design teams will develop resilience-informed design proposals across three scales demonstrating how design strategies and/or policy-oriented recommendations respond to selected goals from the City Resilience Framework. 
+**Deliverables:** Students will work in three teams, each assigned to one scale **(City & Community; Neighborhood & District; or Block, Street, & Building)**. Each team will develop a resilience-informed design proposal demonstrating how design strategies respond to selected goals from the City Resilience Framework.
 
 All teams should:
 - identify priority resilience goals relevant to the study area, 
