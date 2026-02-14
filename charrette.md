@@ -234,19 +234,19 @@ Suggested drawing types may include those listed below. Teams are not required t
 
 ### Scale 2: Neighborhood & District Scale 
 
-- **Neighborhood Framework Plan**
+- Neighborhood Framework Plan
   - Land use framework
   - Development intensity strategy (low/medium/high)
   - Neighborhood center(s) or activity node(s)
 
-- **Mobility and Connectivity Framework**
+- Mobility and Connectivity Framework
   - Street hierarchy 
   - Pedestrian connectivity
   - Bicycle and micromobility routes
   - Transit corridor and service routes 
   - Key intersections and connections to surrounding areas
 
-- **Public Space and Green Infrastructure System**
+- Public Space and Green Infrastructure System
   - Parks and civic spaces
   - Green corridors and landscape connections
   - Stormwater and ecological strategies 
@@ -255,13 +255,13 @@ Suggested drawing types may include those listed below. Teams are not required t
 
 ### Scale 3: Block, Street, & Building Scale
 
-- **Block Framework Design** 
+- Block Framework Design
   - Block size and dimensions (referencing local or historic precedent where appropriate)
   - Parcel pattern
   - Access pattern (streets, alleys, and pedestrian connections)
   - Open space structure
 
-- **Street Scetion** 
+- Street Scetion
   - Travel lanes
   - Zones for other modes of transportation (bicycle, micromobility, transit)
   - Sidewalks
@@ -270,7 +270,7 @@ Suggested drawing types may include those listed below. Teams are not required t
   - Stormwater and drainage strategy
   - Public/private edge
 
-- **Building Prototype**
+- Building Prototype
   - Massing
   - Shading 
   - Passive environmental strategies 
