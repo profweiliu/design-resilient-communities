@@ -381,7 +381,6 @@ These materials are not strictly limited to the list above; students may bring a
 [**Socioeconomic Information**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCb6dZEby27R6oCsrMCiGXuAdhqxOrDH6IT2TCPfkztRDQ?e=8qEaU8)<br>
 [**Hnvironmental Context**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDIPGqLRuaKTKs2ULMcsnlgAd_LdoeDWttRbY_eFpV6-Tk?e=vgVQe5)<br>
 [**Land Use & Activities**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAEhawEEcAgSqtm_-SsRgWCAeiwcTfNLgppmPXGq31Vm0M?e=goJ8rt)<br>
-[**Stakeholder Interview Preparation**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAdrrvTcGgpSaFNv9n1AzG0AahBqyBec5X5cK6wKKRx8Hg?e=4ESlKO)
 
 ### Charrettee References
 
