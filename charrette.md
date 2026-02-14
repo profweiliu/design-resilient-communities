@@ -211,34 +211,34 @@ A strategy is the action taken to achieve a goal, while a performance measure is
 **City Resilience Framework** 
 
 **Health & Wellbeing**
-1. Safe, adequate & affordable housing
-2. Clean, affordable & reliable energy
-3. Safe water & sanitation
-4. Secure, affordable & sustainable food supplies
-5. Sustainable waste & resource management
-6. Universal healthcare & social services
+- Safe, adequate & affordable housing
+- Clean, affordable & reliable energy
+- Safe water & sanitation
+- Secure, affordable & sustainable food supplies
+- Sustainable waste & resource management
+- Universal healthcare & social services
 
 **Economy & Society**
-7. Effective education & skills
-8. Community cohesion, equity & inclusion
-9. Security & public safety
-10. Sustainable economy & livelihoods
-11. Fair rule of law
+- Effective education & skills
+- Community cohesion, equity & inclusion
+- Security & public safety
+- Sustainable economy & livelihoods
+- Fair rule of law
 
 **Infrastructure & Environment**
-12. Healthy ecosystems, green spaces & biodiversity
-13. Effective operation & maintenance of utilities
-14. Sustainable transport & active mobility
-15. Protective infrastructure
-16. Accessible digital services
+- Healthy ecosystems, green spaces & biodiversity
+- Effective operation & maintenance of utilities
+- Sustainable transport & active mobility
+- Protective infrastructure
+- Accessible digital services
 
 **Leadership & Planning**
-17. Accountable local government
-18. Inclusive civic engagement & participation
-19. Robust municipal finance & city management
-20. Secure & effective data management
-21. Effective emergency preparedness
-22. Evidence-based planning
+- Accountable local government
+- Inclusive civic engagement & participation
+- Robust municipal finance & city management
+- Secure & effective data management
+- Effective emergency preparedness
+- Evidence-based planning
 
 ---
 
