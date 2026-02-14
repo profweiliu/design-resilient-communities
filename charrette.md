@@ -197,23 +197,51 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Design Challenge
 
+**Deliverables:** The design teams will develop resilience proposals across three scales demonstrating how design strategies and/or policy-oriented recommendations respond to selected goals from the City Resilience Framework. 
+
+All teams should:
+- identify priority resilience goals relevant to the study area, 
+- translate those goals into spatial and/or policy strategies, and
+- represent those strategies through diagrams and drawings appropriate to their assigned scale.
+
+The emphasis of this challenge is the translation of resilience goals into actionable spatial ideas, rather than the production of fully resolved design drawings.
+
+Suggested drawing types may include those listed below.
+
+
 ### City & Community Scale 
 
 
 ### Neighborhood & District Scale 
 
+- **Neighborhood Framework Plan**
+  - Land use framework
+  - Development intensity strategy (low/medium/high)
+  - Neighborhood center(s) or activity node(s)
+
+- **Mobility and Connectivity Framework**
+  - Street hierarchy 
+  - Pedestrian connectivity
+  - Bicycle and micromobility routes
+  - Transit corridor and service routes 
+  - Key intersections and connections to surrounding areas
+
+- **Public Space and Green Infrastructure System**
+  - Parks and civic spaces
+  - Green corridors and landscape connections
+  - Stormwater and ecological strategies 
+  - Tree canopy and shade strategy
+  - Public gathering spaces
 
 ### Block, Street, & Building Scale
 
-**Deliverables:** The design team will develop an ideal resilient block prototype, informed by the City Resilience Framework, demonstrating how block, streets, and buildings work together to support a resilient community.
-
-- Block Framework Design 
+- **Block Framework Design** 
   - Block size and dimensions (referencing local or historic precedent where appropriate)
   - Parcel pattern
   - Access pattern (streets, alleys, and pedestrian connections)
   - Open space structure
 
-- Street Scetion 
+- **Street Scetion** 
   - Travel lanes
   - Zones for other modes of transportation (bicycle, micromobility, transit)
   - Sidewalks
@@ -222,12 +250,14 @@ Assistant Professor in Planning, Landscape Architecture & Design
   - Stormwater and drainage strategy
   - Public/private edge
 
-- Building Prototype
+- **Building Prototype**
   - Massing
   - Shading 
   - Passive environmental strategies 
   - Building frontage design
   - Ground floor transparency and activation 
+
+Teams are not required to produce all drawing types, but must clearly demonstrate how their design decisions respond to resilience goals.
 
 ## Workshop Documentation ##
 
