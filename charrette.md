@@ -196,6 +196,51 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ---
 
+## Research Challenge
+
+**Deliverables:** Working in teams of three, select two goals from the City Resilience Framework listed below. For each goal, develop clear, measurable design parameters across three spatial scales:
+- **City and Community**
+- **Neighborhood and District**
+- **Block, Street, and Building**
+
+Each team will create a one-page Resilience Cheat Sheet that translates two selected City Resilience Framework goals into three design strategies and measurable performance indicators at three scales: city/community, neighborhood/district, and block/street/building. For example, how a city might support safe and affordable housing through policy and investment, how a neighborhood might strengthen sustainable food access through local systems and services, and how block- or street-level design can improve public safety through the built environment. 
+
+**Not sure about the difference between a strategy and a performance measure?**
+A strategy is the action taken to achieve a goal, while a performance measure is the way success is evaluated or quantified. For example, to improve walkability, a strategy might be building shaded sidewalks, while the corresponding performance measure could be achieving 80% sidewalk shading coverage within 10 years.
+
+**City Resilience Framework**
+**Health & Wellbeing**
+1. Safe, adequate & affordable housing
+2. Clean, affordable & reliable energy
+3. Safe water & sanitation
+4. Secure, affordable & sustainable food supplies
+5. Sustainable waste & resource management
+6. Universal healthcare & social services
+
+**Economy & Society**
+7. Effective education & skills
+8. Community cohesion, equity & inclusion
+9. Security & public safety
+10. Sustainable economy & livelihoods
+11. Fair rule of law
+
+**Infrastructure & Environment**
+12. Healthy ecosystems, green spaces & biodiversity
+13. Effective operation & maintenance of utilities
+14. Sustainable transport & active mobility
+15. Protective infrastructure
+16. Accessible digital services
+
+**Leadership & Planning**
+17. Accountable local government
+18. Inclusive civic engagement & participation
+19. Robust municipal finance & city management
+20. Secure & effective data management
+21. Effective emergency preparedness
+22. Evidence-based planning
+
+---
+
 ## Design Challenge
 
 **Deliverables:** Students will work in three teams, each assigned to one scale **(City & Community; Neighborhood & District; or Block, Street, & Building)**. Each team will develop a resilience-informed design proposal demonstrating how design strategies respond to selected goals from the City Resilience Framework.
