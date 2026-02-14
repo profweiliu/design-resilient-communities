@@ -21,6 +21,18 @@ Founding Principal of Dover, Kohl & Partners
 Dr. Wei Liu, AICP, CNU-A <br>
 Assistant Professor in Planning, Landscape Architecture & Design
 
+---
+
+## Project Understanding
+
+The City of Durant, Oklahoma (population approximately 20,000), serves as the county seat of Bryan County and a regional center for education, culture, and economic activity in southeastern Oklahoma. Home to the headquarters of the Choctaw Nation of Oklahoma and Southeastern Oklahoma State University, Durant combines the characteristics of a small rural city with the influence of major institutional partners and growing regional visibility. As the community continues to grow, the city is working to strengthen its economic vitality, public spaces, and infrastructure systems while maintaining its cultural identity and community character.
+
+Like many small and mid-sized communities, Durant faces challenges related to limited municipal capacity, constrained funding sources, and the need to implement long-term planning goals through incremental and strategic investments. The Durant Comprehensive Plan 2040 outlines a vision for a more connected, walkable, economically resilient, and environmentally sustainable community, but progress toward these goals has been uneven due to leadership transitions and resource limitations. At the same time, local nonprofit organizations and engaged residents have demonstrated strong interest in improving walkability, expanding bike and trail networks, enhancing public spaces, and promoting environmental stewardship.
+
+This charrette explores how resilience goals can be translated into design and planning strategies across multiple spatial scales — city and community, neighborhood and district, and block, street, and building. By working across these interconnected scales, the project aims to identify practical and measurable approaches that support Durant’s long-term vision for a more connected, inclusive, and resilient community, while recognizing the economic, institutional, and geographic realities of a growing rural city.
+
+---
+
 ## Schedule & Program
 
 ### Friday, March 6, 2026: The Resilience Diagnosis
