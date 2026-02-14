@@ -197,7 +197,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Design Challenge
 
-**Deliverables:** The design teams will develop resilience proposals across three scales demonstrating how design strategies and/or policy-oriented recommendations respond to selected goals from the City Resilience Framework. 
+**Deliverables:** The design teams will develop resilience-informed design proposals across three scales demonstrating how design strategies and/or policy-oriented recommendations respond to selected goals from the City Resilience Framework. 
 
 All teams should:
 - identify priority resilience goals relevant to the study area, 
@@ -209,10 +209,29 @@ The emphasis of this challenge is the translation of resilience goals into actio
 Suggested drawing types may include those listed below.
 
 
-### City & Community Scale 
+### Scale 1: City & Community Scale 
 
+- City Resilience Framework Diagram
+  - Identification of priority City Resilience Framework goals
+  - Key citywide challenges and opportunities 
 
-### Neighborhood & District Scale 
+- City Structure and Growth Framework
+  - Community structure diagram (centers, corridors, neighborhoods)
+  - Growth and development focus area
+  - Connections between downtown, neighborhoods, and regional systems
+
+- Mobility and Infrastructure Systems
+  - Major transportation corridors and connections
+  - Active mobility network (walking and bycycling)
+  - Infrastructure priorities
+
+- Community Resilience Strategy Diagram
+  - Public space and environmental systems at the city scale
+  - Community facilities and services 
+  - Economic activity areas
+  - Equity and access considerations
+
+### Scale 2: Neighborhood & District Scale 
 
 - **Neighborhood Framework Plan**
   - Land use framework
@@ -233,7 +252,7 @@ Suggested drawing types may include those listed below.
   - Tree canopy and shade strategy
   - Public gathering spaces
 
-### Block, Street, & Building Scale
+### Scale 3: Block, Street, & Building Scale
 
 - **Block Framework Design** 
   - Block size and dimensions (referencing local or historic precedent where appropriate)
