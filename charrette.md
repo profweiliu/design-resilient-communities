@@ -325,7 +325,7 @@ Suggested drawing types may include those listed below. Teams are not required t
 
 ---
 
-## Workshop Documentation ##
+## Charrette Documentation ##
 
 Each group will collectively document both their design process and final products. Documentation of process and final work must be scanned and submitted to Canvas by Friday, March 13, and will contribute to the course grade.
 
