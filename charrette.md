@@ -33,7 +33,7 @@ This charrette explores how resilience goals can be translated into design and p
 
 ## Charrette Goals
 
-The City of Durant is working toward a future that is more connected, inclusive, and resilient community. This charrette uses the City Resilience Framework to guide planning and design thinking across multiple spatial scales — from city to neighborhood to block-level design.
+The City of Durant is working toward a future that is more connected, inclusive, and resilient community. This charrette uses the [City Resilience Framework](https://resilientcitiesnetwork.org/city-resilience-framework/) to guide planning and design thinking across multiple spatial scales — from city to neighborhood to block-level design.
 
 Goals for this charrette include: 
 1. Strengthen community resilience by translating resilience goals into clear, measurable design and planning strategies across city, neighborhood, and block scales.
@@ -371,3 +371,25 @@ Each student should arrive prepared with materials and tools for hand drawing, d
 - Straightedge
 
 These materials are not strictly limited to the list above; students may bring additional tools as needed. Worktables and a limited number of shared tools will be provided.
+
+---
+
+### Student Preliminary Research Findings 
+
+[**History of the Place**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmCU8Z6NtlSqSaSUZEyeeOAUqUbHr3y8o2FQTk7sbvRnE?e=GMc4xi)<br>
+[**Basemap**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAhfY92wrLjQYqq4XeZOb1EAVZRoNPWjc1HWy9QlUg2n9E?e=LVWDnr)<br>
+[**Socioeconomic Information**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCb6dZEby27R6oCsrMCiGXuAdhqxOrDH6IT2TCPfkztRDQ?e=8qEaU8)<br>
+[**Hnvironmental Context**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDIPGqLRuaKTKs2ULMcsnlgAd_LdoeDWttRbY_eFpV6-Tk?e=vgVQe5)<br>
+[**Land Use & Activities**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAEhawEEcAgSqtm_-SsRgWCAeiwcTfNLgppmPXGq31Vm0M?e=goJ8rt)<br>
+[**Stakeholder Interview Preparation**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAdrrvTcGgpSaFNv9n1AzG0AahBqyBec5X5cK6wKKRx8Hg?e=4ESlKO)
+
+### Charrettee References
+
+[**Durant 2040 Comprehensive Plan**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAvI0C4t0DmQJ-78B9bXagLAXK0SnBpfyhByfg1pZftlpI?e=QvAvdD) <br>
+[**Durant Master Trails Plan 2017**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQD_Vv3XeuA4R5oauVTb14ciAdJo1R2VkLzHHyPohUWSjx0?e=LxisWL) <br>
+[**Future Land Use Map**](https://www.durant.org/672/ENVISION-2040) <br>
+[**Durant Data Infographics**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgDXiB1b6Rl7TqTzEHKDD_yGAY9oOwteKKb9dKXJ3Vl1sXM?e=cODzkl)<br>
+[**AARP Walk Audit, Durnat, Oklahoma**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAWpBXUEXRPQJmyyj4VQWUVAWzMcwpmZKT2GJLibpXoRLs?e=3pA7qo) <br>
+[**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
+[**Bronco Logistics Unlimited Business Plan**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQBFajuua1mLTK-29IMypYHQASVHLhrJxBsKNyrRVMup0AE?e=dffbU8) <br>
+[**Southeastern Oklahoma State University Campus Master Plan**](https://www.se.edu/campus-master-plan/) 
