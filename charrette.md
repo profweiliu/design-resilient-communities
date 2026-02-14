@@ -194,6 +194,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
   </tr>
 </table>
 
+---
 
 ## Design Challenge
 
