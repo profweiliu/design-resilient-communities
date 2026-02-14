@@ -207,7 +207,7 @@ All teams should:
 
 The emphasis of this challenge is the translation of resilience goals into actionable spatial ideas, rather than the production of fully resolved design drawings.
 
-Suggested drawing types may include those listed below.
+Suggested drawing types may include those listed below. Teams are not required to produce all drawing types, but must clearly demonstrate how their design decisions respond to resilience goals.
 
 
 ### Scale 1: City & Community Scale 
@@ -277,7 +277,7 @@ Suggested drawing types may include those listed below.
   - Building frontage design
   - Ground floor transparency and activation 
 
-Teams are not required to produce all drawing types, but must clearly demonstrate how their design decisions respond to resilience goals.
+---
 
 ## Workshop Documentation ##
 
