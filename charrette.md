@@ -281,24 +281,24 @@ Suggested drawing types may include those listed below. Teams are not required t
 
 ## Workshop Documentation ##
 
-Each group will collectively document their process and final product. Documentation of the work produced by each group is necessary for achieving course grade. Groups shall document their process after each design exercise by scanning and taking pictures of their process drawings. 
-
-Each group is responsible for creating a documentation of their final design product. The final deliverables produced for the Saturday wrap-up presentation are to be scanned and submitted to Canvas by Friday, March 13.  
+Each group will collectively document both their design process and final products. Documentation of process and final work must be scanned and submitted to Canvas by Friday, March 13, and will contribute to the course grade.
 
 ## Participant Requirements 
 
 ### Attendance and Participation
 
-Students in EnD 4970 Design Resilient Communities and EnD 4993 Environmental Design Capstone are required to attend the public lecture and all charrette sessions for the full-duration noted and engage in all group exercises and reviews. 
+Students enrolled in EN D 4970 Design Resilient Communities and EN D 4993 Environmental Design Capstone are required to attend the public lecture and all charrette sessions for their full duration, and to actively participate in group exercises, discussions, and reviews.
 
 ### Charrette Materials
 
-The charrette is centered on the creation and development of a resilient city design. To quickly test, analyze, and refine over the 2 days, the charrette will be completed through analog methods. Each student is expected to be prepared with materials and tools to sketch, render, and measure by hand. Examples of materials needed for the charrette are listed below. 
+The charrette focuses on the rapid development of resilient city design proposals. To support iterative testing, analysis, and refinement over the two-day workshop, work will be completed primarily through analog methods.
+
+Each student should arrive prepared with materials and tools for hand drawing, diagramming, and measuring. Suggested materials include:
 
 - Trace paper 
 - Enginerring scale
 - Pens with a variety of line weights 
 - Markers/rendering pens
-- Straight edge
+- Straightedge
 
-The materials for the charrette are not explicitly limited to these materials, students may bring in other materials as they see fit. Worktables and a few tools will be provided. 
+These materials are not strictly limited to the list above; students may bring additional tools as needed. Worktables and a limited number of shared tools will be provided.
