@@ -30,44 +30,14 @@ Philip Hightower, Public Works Director, City of Durant<br>
 Ryan Jones, Durant Sustainability Coalition (DSC) Board Member<br>
 Mark Mesiti-Miller, Durant Sustainability Coalition (DSC) Board Member
 
-## Community Participants
-Ryan Brewer <br>
-Parks and Facility Manager, City of Durant
-
-Paul Cottrell <br>
-Coummunity Development Director, City of Durant
-
-Mike Delloro <br>
-Durant Trails and Open Space (DTOS) Board Member
-
-Philip Hightower <br> 
-Public Works Director, City of Durant
-
-Ryan Jones <br>
-Durant Sustainability Coalition (DSC) Board Member
-
-Mark Mesiti-Miller <br>
-Durant Sustainability Coalition (DSC) Board Member
-
 ## Charrette Support Team 
 
-Dr. Amber Wiley <br>
-Wick Cary Director, Institute for Quality Communities
-
-Molly O’Connor <br>
-Program Manager, Institute for Quality Communities
-
-Casey Guest <br>
-Administrative Coordinator, Gibbs College of Architecture
-
-Peyton Steger <br> 
-Graduate Assistant
-
-Monte Dunham <br>
-Graduate Assistant
-
-David McPherson <br>
-Graduate Assistant, Institute for Quality Communities
+Dr. Amber Wiley, Wick Cary Director, Institute for Quality Communities<br>
+Molly O’Connor, Program Manager, Institute for Quality Communities<br>
+Casey Guest, Administrative Coordinator, Gibbs College of Architecture<br>
+Peyton Steger, Graduate Assistant<br>
+Monte Dunham, Graduate Assistant<br>
+David McPherson, Graduate Assistant, Institute for Quality Communities
 
 ---
 
