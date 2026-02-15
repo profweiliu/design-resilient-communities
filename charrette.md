@@ -8,7 +8,6 @@ title: Charrette
 {:toc}
 
 {% include course_header.html %}
-# **This Page is Under Developing**
 # Resilient Durant: <br> A Multi-Scalar Resilience Framework 
 {:.no_toc}
 
