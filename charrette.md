@@ -111,6 +111,14 @@ Goals for this charrette include:
   </tr>
   <tr>
     <td style="width:140px; vertical-align:top; font-weight:600;">
+      3:15 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Break</strong>
+    </td>
+  </tr>
+  <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
       3:30 PM
     </td>
     <td style="vertical-align:top;">
@@ -121,6 +129,14 @@ Goals for this charrette include:
     <td></td>
     <td>
       Each team synthesizes its findings into a one-page Resilience Cheat Sheet defining three measurable design parameters that future proposals must satisfy within their assigned goals. For example, the plan must include 30% green space coverage, or the plan must ensure safe routes to schools. 
+    </td>
+  </tr>
+    <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      4:15 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Break</strong>
     </td>
   </tr>
     <tr>
@@ -180,6 +196,14 @@ Goals for this charrette include:
       Design teams produce a resilient design proposal for Durant. Proposals must integrate the Day-1 resilience criteria across resilience dimensions, while working within their designated scale — city/community, neighborhood/district, or block/street/building.
     </td>
   </tr>
+    <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      3:15 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Break</strong>
+    </td>
+  </tr>
   <tr>
     <td style="width:140px; vertical-align:top; font-weight:600;">
       3:30 PM
@@ -192,6 +216,14 @@ Goals for this charrette include:
     <td></td>
     <td>
       Stop designing, teams exchange proposals and conduct a peer review using the City Resilience Framework as a checklist to identify missing components, conflicts, or weak integration across resilience goals (e.g., “Does this proposal address Goal 5: Sustainable waste & resource management?” or “Does Goal 9: Security & public safety create conflicts with strategies at other scales?”).
+    </td>
+  </tr>
+    <tr>
+    <td style="width:140px; vertical-align:top; font-weight:600;">
+      4:15 PM
+    </td>
+    <td style="vertical-align:top;">
+      <strong>Break</strong>
     </td>
   </tr>
     <tr>
