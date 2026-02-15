@@ -23,6 +23,14 @@ Founding Principal of Dover, Kohl & Partners
 Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Community Participants
+Ryan Brewer, Parks and Facility Manager, City of Durant<br>
+Paul Cottrell, Coummunity Development Director, City of Durant<br>
+Mike Delloro, Durant Trails and Open Space (DTOS) Board Member<br>
+Philip Hightower, Public Works Director, City of Durant<br>
+Ryan Jones, Durant Sustainability Coalition (DSC) Board Member<br>
+Mark Mesiti-Miller, Durant Sustainability Coalition (DSC) Board Member
+
+## Community Participants
 Ryan Brewer <br>
 Parks and Facility Manager, City of Durant
 
