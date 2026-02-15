@@ -461,3 +461,5 @@ These materials are not strictly limited to the list above; students may bring a
 [**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
 [**Bronco Logistics Unlimited Business Plan**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQBFajuua1mLTK-29IMypYHQASVHLhrJxBsKNyrRVMup0AE?e=dffbU8) <br>
 [**Southeastern Oklahoma State University Campus Master Plan**](https://www.se.edu/campus-master-plan/) 
+
+*Acknowledgment: The structure of this charrette is inspired by a design workshop co-led by Doug Farr, Dr. John Hoal, and Matthew Bernsine at Washington University in St. Louis in 2019, where the instructor served as a faculty assistant.*
