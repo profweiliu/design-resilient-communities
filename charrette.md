@@ -20,6 +20,42 @@ Founding Principal of Dover, Kohl & Partners
 [Dr. Wei Liu, AICP, CNU-A](https://profweiliu.com/index.html) <br>
 Assistant Professor in Planning, Landscape Architecture & Design
 
+## Community Participants
+Ryan Brewer <br>
+Parks and Facility Manager, City of Durant
+
+Paul Cottrell <br>
+Coummunity Development Director, City of Durant
+
+Mike Delloro <br>
+Durant Trails and Open Space (DTOS) Board Member
+
+Philip Hightower <br> 
+Public Works Director, City of Durant
+
+Ryan Jones <br>
+Durant Sustainability Coalition (DSC) Board Member
+
+Mark Mesiti-Miller <br>
+Durant Sustainability Coalition (DSC) Board Member
+
+## Charrette Assistants 
+
+Dr. Amber Wiley <br>
+Wick Cary Director, Institute for Quality Communities
+
+Molly O’Connor <br>
+Program Manager, Institute for Quality Communities
+
+Peyton Steger <br> 
+Graduate Assistant
+
+Monte Dunham <br>
+Graduate Assistant
+
+David McPherson <br>
+Graduate Assistant, Institute for Quality Communities
+
 ---
 
 ## Charrette Understanding
