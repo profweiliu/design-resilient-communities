@@ -13,6 +13,8 @@ title: Charrette
    [Download the Reader | Available Soon](TBD) <br>
 {:.no_toc}
 
+---
+
 ## Charrette Lead
 [Victor Dover, FAICP, LEED-AP, CNU Fellow](https://www.doverkohl.com/vdover) <br>
 Founding Principal of Dover, Kohl & Partners
