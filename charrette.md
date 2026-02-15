@@ -65,7 +65,7 @@ Goals for this charrette include:
 
 ## Schedule & Program
 
-### Friday, March 6, 2026: The Resilience Diagnosis
+### Friday, March 6, 2026 <br> The Resilience Diagnosis
 
 *Goal: Students become experts in the City Resilient Framework (CRF) and establish measurable resilience design parameters for Durant.* 
 
@@ -181,7 +181,7 @@ Goals for this charrette include:
   </tr>
 </table>
 
-### Saturday, March 7, 2026: The Resilient Design
+### Saturday, March 7, 2026 <br> The Resilient Design
 
 *Goal: Students form new teams to synthesize resilience criteria into a cohesive spatial proposal for the City of Durant.*
 
@@ -285,7 +285,7 @@ A strategy is the action taken to achieve a goal, while a performance measure is
 **City Resilience Framework (Dimensions and Goals)** 
 
 Health & Wellbeing
-- Safe, adequate & affordable housing <br>
+- Safe, adequate & affordable housing 
 - Clean, affordable & reliable energy
 - Safe water & sanitation
 - Secure, affordable & sustainable food supplies
