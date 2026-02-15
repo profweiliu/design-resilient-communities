@@ -285,7 +285,7 @@ A strategy is the action taken to achieve a goal, while a performance measure is
 **City Resilience Framework (Dimensions and Goals)** 
 
 Health & Wellbeing
-- Safe, adequate & affordable housing
+- Safe, adequate & affordable housing <br>
 - Clean, affordable & reliable energy
 - Safe water & sanitation
 - Secure, affordable & sustainable food supplies
