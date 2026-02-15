@@ -264,7 +264,7 @@ Each team will create a one-page Resilience Cheat Sheet that translates two sele
 **Not sure about the difference between a strategy and a performance measure?** <br>
 A strategy is the action taken to achieve a goal, while a performance measure is the way success is evaluated or quantified. For example, to improve walkability, a strategy might be building shaded sidewalks, while the corresponding performance measure could be achieving 80% sidewalk shading coverage within 10 years.
 
-**City Resilience Framework** 
+**City Resilience Framework (Dimensions and Goals)** 
 
 Health & Wellbeing
 - Safe, adequate & affordable housing
