@@ -446,6 +446,8 @@ These materials are not strictly limited to the list above; students may bring a
 
 ---
 
+## Charrette Resources
+
 ### Student Preliminary Research Findings 
 
 [**History of the Place**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmCU8Z6NtlSqSaSUZEyeeOAUqUbHr3y8o2FQTk7sbvRnE?e=GMc4xi)<br>
