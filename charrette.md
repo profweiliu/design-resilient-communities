@@ -38,13 +38,16 @@ Durant Sustainability Coalition (DSC) Board Member
 Mark Mesiti-Miller <br>
 Durant Sustainability Coalition (DSC) Board Member
 
-## Charrette Assistants 
+## Charrette Support Team 
 
 Dr. Amber Wiley <br>
 Wick Cary Director, Institute for Quality Communities
 
 Molly O’Connor <br>
 Program Manager, Institute for Quality Communities
+
+Casey Guest <br>
+Administrative Coordinator, Gibbs College of Architecture
 
 Peyton Steger <br> 
 Graduate Assistant
