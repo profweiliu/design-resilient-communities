@@ -162,7 +162,7 @@ Goals for this charrette include:
   </tr>
 </table>
 
-### Saturday, March 7, 2026: The Resilient Masterplan
+### Saturday, March 7, 2026: The Resilient Design
 
 *Goal: Students form new teams to synthesize resilience criteria into a cohesive spatial proposal for the City of Durant.*
 
