@@ -26,6 +26,7 @@ Feb 13
 
 Feb 16
 : **Lecture: Mobility, Streets, and Corridors** <br>
+  : [Slides](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCofAnR49wHRKUOp1eemCDcAZrQNFGzi6piGTK6wZF97xw?e=qnS57p) <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 2. Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[Chapter 5. Dover & Massengale. (2014). Street Design - The Secret to Great Cities and Towns](TBD){: .citation}  <br>
 
