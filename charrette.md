@@ -421,6 +421,7 @@ Each student should arrive prepared with materials and tools for hand drawing, d
 - Pens with a variety of line weights 
 - Markers/rendering pens
 - Straightedge
+- Post-it notes
 
 These materials are not strictly limited to the list above; students may bring additional tools as needed. Worktables and a limited number of shared tools will be provided.
 
