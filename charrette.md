@@ -24,7 +24,7 @@ Assistant Professor in Planning, Landscape Architecture & Design
 
 ## Community Participants
 Ryan Brewer, Parks and Facility Manager, City of Durant<br>
-Paul Cottrell, Coummunity Development Director, City of Durant<br>
+Paul Cottrell, Community Development Director, City of Durant<br>
 Mike Delloro, Durant Trails and Open Space (DTOS) Board Member<br>
 Philip Hightower, Public Works Director, City of Durant<br>
 Ryan Jones, Durant Sustainability Coalition (DSC) Board Member<br>
@@ -51,7 +51,7 @@ This charrette explores how resilience goals can be translated into design and p
 
 ## Charrette Goals
 
-The City of Durant is working toward a future that is more connected, inclusive, and resilient community. This charrette uses the [City Resilience Framework](https://resilientcitiesnetwork.org/city-resilience-framework/) to guide planning and design thinking across multiple spatial scales — from city to neighborhood to block-level design.
+The City of Durant is working toward a future that is more connected, inclusive, and resilient. This charrette uses the [City Resilience Framework](https://resilientcitiesnetwork.org/city-resilience-framework/) to guide planning and design thinking across multiple spatial scales — from city to neighborhood to block-level design.
 
 Goals for this charrette include: 
 1. Strengthen community resilience by translating resilience goals into clear, measurable design and planning strategies across city, neighborhood, and block scales.
@@ -68,7 +68,7 @@ Goals for this charrette include:
 ### Friday, March 6, 2026 
 ### The Resilience Diagnosis
 
-*Goal: Students become experts in the City Resilient Framework (CRF) and establish measurable resilience design parameters for Durant.* 
+*Goal: Students become experts in the City Resilience Framework (CRF) and establish measurable resilience design parameters for Durant.* 
 
 <table style="border-collapse:collapse;">
   <tr>
@@ -199,7 +199,7 @@ Goals for this charrette include:
   <tr>
     <td></td>
     <td>
-      Students reprganize into design teams of approximately eleven members. Each team includes at least one expert from each CRF goal developed on Day 1. 
+      Students reorganize into design teams of approximately eleven members. Each team includes at least one expert from each CRF goal developed on Day 1. 
     </td>
   </tr>
     <tr>
@@ -235,7 +235,7 @@ Goals for this charrette include:
   <tr>
     <td></td>
     <td>
-      Stop designing, teams exchange proposals and conduct a peer review using the City Resilience Framework as a checklist to identify missing components, conflicts, or weak integration across resilience goals. For example, “Does this proposal address Goal 5: Sustainable waste & resource management?” or “Does Goal 9: Security & public safety create conflicts with strategies at other scales?”
+      Stop designing, teams exchange proposals and conduct a peer review using the City Resilience Framework as a checklist to identify missing components, conflicts, or weak integration across resilience goals. For example, “Does this proposal address Goal 5: Sustainable Waste & Resource Management?” or “Does Goal 14: Sustainable Transport & Active Mobility create conflicts across scales?”
     </td>
   </tr>
     <tr>
@@ -345,7 +345,7 @@ Suggested drawing types may include those listed below. Teams are not required t
 
 - Mobility and Infrastructure Systems
   - Major transportation corridors and connections
-  - Active mobility network (walking and bycycling)
+  - Active mobility network (walking and bicycling)
   - Infrastructure priorities
 
 - Community Resilience Strategy Diagram
@@ -383,7 +383,7 @@ Suggested drawing types may include those listed below. Teams are not required t
   - Access pattern (streets, alleys, and pedestrian connections)
   - Open space structure
 
-- Street Scetion
+- Street Section
   - Travel lanes
   - Zones for other modes of transportation (bicycle, micromobility, transit)
   - Sidewalks
@@ -417,7 +417,7 @@ The charrette focuses on the rapid development of resilient city design proposal
 
 Each student should arrive prepared with materials and tools for hand drawing, diagramming, and measuring. Suggested materials include:<br>
 - Trace paper 
-- Enginerring scale
+- Engineering scale
 - Pens with a variety of line weights 
 - Markers/rendering pens
 - Straightedge
@@ -433,7 +433,7 @@ These materials are not strictly limited to the list above; students may bring a
 [**History of the Place**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmCU8Z6NtlSqSaSUZEyeeOAUqUbHr3y8o2FQTk7sbvRnE?e=GMc4xi)<br>
 [**Basemap**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAhfY92wrLjQYqq4XeZOb1EAVZRoNPWjc1HWy9QlUg2n9E?e=LVWDnr)<br>
 [**Socioeconomic Information**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCb6dZEby27R6oCsrMCiGXuAdhqxOrDH6IT2TCPfkztRDQ?e=8qEaU8)<br>
-[**Hnvironmental Context**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDIPGqLRuaKTKs2ULMcsnlgAd_LdoeDWttRbY_eFpV6-Tk?e=vgVQe5)<br>
+[**Environmental Context**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDIPGqLRuaKTKs2ULMcsnlgAd_LdoeDWttRbY_eFpV6-Tk?e=vgVQe5)<br>
 [**Land Use & Activities**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAEhawEEcAgSqtm_-SsRgWCAeiwcTfNLgppmPXGq31Vm0M?e=goJ8rt)<br>
 
 ### Charrettee References
@@ -442,7 +442,7 @@ These materials are not strictly limited to the list above; students may bring a
 [**Durant Master Trails Plan 2017**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQD_Vv3XeuA4R5oauVTb14ciAdJo1R2VkLzHHyPohUWSjx0?e=LxisWL) <br>
 [**Future Land Use Map**](https://www.durant.org/672/ENVISION-2040) <br>
 [**Durant Data Infographics**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgDXiB1b6Rl7TqTzEHKDD_yGAY9oOwteKKb9dKXJ3Vl1sXM?e=cODzkl)<br>
-[**AARP Walk Audit, Durnat, Oklahoma**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAWpBXUEXRPQJmyyj4VQWUVAWzMcwpmZKT2GJLibpXoRLs?e=3pA7qo) <br>
+[**AARP Walk Audit, Durant, Oklahoma**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAWpBXUEXRPQJmyyj4VQWUVAWzMcwpmZKT2GJLibpXoRLs?e=3pA7qo) <br>
 [**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
 [**Bronco Logistics Unlimited Business Plan**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQBFajuua1mLTK-29IMypYHQASVHLhrJxBsKNyrRVMup0AE?e=dffbU8) <br>
 [**Southeastern Oklahoma State University Campus Master Plan**](https://www.se.edu/campus-master-plan/) 
