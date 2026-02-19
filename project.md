@@ -48,6 +48,12 @@ Students have been assigned to the following groups: <br>
 **Group 2** | Daniel Chica | Russan Missouri | Ethan Sayadeth | Jacob Ulrich |
 **Group 3** | Christian Forbes | Roman Johnson | Betty Sue Kihunrwa | Bergin Kysar | Mason Queen 
 
+**History of the Place** | Quentin Goforth | Elissa Halligan | Fancy Jaja | Chris Rodriguez Suarez |
+**Basemap** |Nick Guizol | Roman Johnson | Cameron Lopez | Russan Missouri |
+**Socioeconomic Information** | Hayden Harp | Adam Lodrigueza | Molly Strobel | Tao Wang |
+**Environmental Context** | Sana Arshad | Gilbert Magana | Vanessa Nunez | Luke Salisbury | Caleb Townsend
+**Land Use & Activities** | Noah Batson | Christian Forbes | Elena Hobbs | Sophia Smith | Ayden Trull
+**Stakeholder Interview Preparation** | Allison Jackson | Layne Jarrett | Elaina Maurer | Mason Queen | Chloe Vincent
 ---
 
 ## Community Snapshot
