@@ -33,7 +33,7 @@ By the end of the project, student teams will produce a set of integrated design
 - **Perspective Rendering** visualizing user experience and key design qualities (minimum 1)
 - **Matrix of Resilient Design Strategies** explicitly mapping recommendations to the community goals (template to be provided) 
 
-*Note: the final plan and the concept plan must include labels for presentation; however, an unlabeled version must also be submitted for documentation purposes.*
+*Note: the concept plan and the rendered final plan must include labels for presentation; however, an unlabeled version must also be submitted for documentation purposes.*
 
 ## Evaluation Rubric Statement
 
