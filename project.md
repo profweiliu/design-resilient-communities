@@ -27,7 +27,7 @@ Your proposals should explicitly respond to the following community goals:
 By the end of the project, student teams will produce a set of integrated design recommendations that include:
 - **Executive Summary** outlining the project vision, key interventions, and anticipated community impact (maximum 200 words) 
 - **Resilience Statement** clearly articulating how the project advances community resilience (maximum 50 words) 
-- **Design Intent Precedent Images** including visual references that communicate materiality, spatial character, program, and atmosphere (minimum 1)
+- **Design Intent Precedent Images** including visual references that communicate materiality, spatial character, program, and atmosphere (minimum 10)
 - **Concept Plan** illustrating permanent, seasonal, and flexible programming and uses (scale: 1"=50'; format: letter size)
 - **Rendered Final Plan** including adjacent streets and alleys (scale: 1"=30'; format: 24'x24')
 - **Perspective Rendering** visualizing user experience and key design qualities (minimum 1)
