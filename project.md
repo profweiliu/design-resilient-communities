@@ -25,12 +25,16 @@ Your proposals should explicitly respond to the following community goals:
 ## Deliverable
 
 By the end of the project, student teams will produce a set of integrated design recommendations that include:
-- **An Executive Summary** (200 words max.)
-- **A Resilience Statement** (50 words max.) clearly articulating how the proposal supports community resilience
-- **An Existing Condition Illustration**, including visual documentation and narrative analysis
-- **A Rendered Proposed Site Plan**, including adjacent streets and alleys (8.5 in. x 8.5 in. full-page layout)
-- **A Programming Diagram**, illustrating permanent, seasonal, and flexible uses (8.5 in. x 8.5 in. full-page layout)
-- **A Matrix of Resilient Design and Planning Strategies**, explicitly mapping recommendations to the community goals (matrix template will be provided). 
+- **Executive Summary** outlining the project vision, key interventions, and anticipated community impact (maximum 200 words) 
+- **Resilience Statement** clearly articulating how the project advances community resilience (maximum 50 words) 
+- **An Existing Condition Illustration** including visual documentation and narrative analysis
+- **Rendered Final Plan** including adjacent streets and alleys (scale: 1"=30'; format: 24'x24')
+- **Concept Plan** illustrating permanent, seasonal, and flexible programming and uses (scale: 1"=50'; format: letter size)
+- **Design Intent Precedent Images** including visual references that communicate materiality, spatial character, program, and atmosphere (minimum 1)
+- **Perspective Rendering** visualizing user experience and key design qualities (minimum 1)
+- **Matrix of Resilient Design Strategies** explicitly mapping recommendations to the community goals (template to be provided) 
+
+*Note: the final plan and the concept plan must include labels for presentation; however, an unlabeled version must also be submitted for documentation purposes.*
 
 ## Evaluation Rubric Statement
 
