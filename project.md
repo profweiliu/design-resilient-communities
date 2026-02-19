@@ -43,10 +43,10 @@ While grounded in a real-world community context, proposals are evaluated based 
 
 Students will be organized into three groups, each consisting of four to five members. Prior to group formation, students will complete a brief [survey](https://qualtrics.ou.edu/jfe/form/SV_4HGn4kYh5dWGGDc) assessing their skill sets and prior experience. Based on the survey results, the instructor will assign teams to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
 
-Students have been assigned to the following groups: 
-| Group 1 | Noah Batson| Kristen Bokker | Jonathan Coerver | Ayden Trull |
-| Group 2 | Daniel Chica | Russan Missouri | Ethan Sayadeth | Jacob Ulrich |
-| Group 3 | Christian Forbes | Roman Johnson | Betty Sue Kihunrwa | Bergin Kysar | Mason Queen |
+Students have been assigned to the following groups: <br>
+**Group 1** | Noah Batson| Kristen Bokker | Jonathan Coerver | Ayden Trull |
+**Group 2** | Daniel Chica | Russan Missouri | Ethan Sayadeth | Jacob Ulrich |
+**Group 3** | Christian Forbes | Roman Johnson | Betty Sue Kihunrwa | Bergin Kysar | Mason Queen 
 
 ---
 
