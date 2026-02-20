@@ -35,7 +35,7 @@ By the end of the project, student teams will produce a set of integrated design
 
 *Note:* <br> 
 *1. The concept plan and the rendered final plan must include labels for presentation; however, an unlabeled version must also be submitted for documentation purposes.* <br>
-*2. Projects that meet the expected standards of quality and completeness may be selected for inclusion in the final publication shared with community partners.*
+*2. Projects that meet the expected standards of quality may be selected for inclusion in the final publication shared with community partners.*
 
 ## Evaluation Rubric Statement
 
