@@ -72,13 +72,13 @@ Assignment 2 is due on **Wednesday, Feburary 11 at 11:59 PM**.
 
 ### Prompt  
 
-Briefly summarize the most relavant insights you gained from the stakeholder interview, particularly those related to the environmental issue you previously identified. 
-Then articulate one priority you want to bring into the design process moving forward. 
+Identify one comparable public space case study (similar or relative in scale to our study site) and analyze how its design strategies respond to concerns that emerged from the stakeholder interview, particularly those connected to the environmental issue you previously identified.
 
 In your response, you might consider: 
-- New information you learned
-- Perspectives that challenged or confirmed your assumptions
-- Respond directly to community needs or concerns
+- Identify and briefly describe the selected case study (location, size, primary design intent)
+- Explain which specific strategies are relevant to our project context
+- Evaluate how those strategies respond to stakeholder concerns or environmental performance issues
+- Incorporate visuals (e.g., diagrams, annotated images, or precedent plans/sections) to support your analysis
 
 ### Format requirement
 
@@ -91,5 +91,33 @@ In your response, you might consider:
 ### Submission Deadline
 
 Assignment 3 is due on **Wednesday, Feburary 25 at 11:59 PM**. 
+
+---
+
+## Assignment 4 Proposal
+
+### Task
+
+Working in your assigned groups, develop a clear and focused design direction for Market Square. This assignment is intended to establish your project priorities and overall spatial strategy before advancing into more detailed design development.
+
+As a group, identify the key priorities that will guide your proposal for Market Square. These priorities must be grounded in the Community Goals listed on the Final Project page. Then, write a concise 2–3 sentence thesis statement that clearly articulates your design intent. Your statement should address questions such as: What is the primary role of Market Square? What problem(s) is it addressing? What spatial or environmental strategy defines your approach?
+
+Present your design direction through a concept plan in the form of a bubble diagram. The diagram should clearly communicate spatial organization and relationships. It may include: <br>
+- Major spatial zones (e.g., seating areas, vendor zones, staging/performance space, flexible activity areas, stationary gathering areas)
+- Circulation paths and pedestrian hierarchy
+- Access points and connections to adjacent streets
+- Environmental strategies (e.g., shade, stormwater areas, tree canopy, permeable surfaces, seasonal adaptation zones)
+
+The diagram should emphasize clarity, hierarchy, and logic rather than graphic embellishment.
+
+### Format requirement
+
+- Thesis Statement
+- List of Design Priorities
+- One Concept Plan (Bubble Diagram, clearly labeled)
+
+### Submission Deadline
+
+Assignment 4 is due on **Wednesday, April 1 at 11:59 PM**. 
 
 {% include course_footer.html %}
