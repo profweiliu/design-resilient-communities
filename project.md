@@ -34,8 +34,8 @@ By the end of the project, student teams will produce a set of integrated design
 - **Matrix of Resilient Design Strategies** explicitly mapping recommendations to the community goals (template to be provided) 
 
 *Note:* <br> 
-*The concept plan and the rendered final plan must include labels for presentation; however, an unlabeled version must also be submitted for documentation purposes.* <br>
-*Projects that meet the expected standards of quality and completeness may be selected for inclusion in the final publication shared with community partners.*
+*1. The concept plan and the rendered final plan must include labels for presentation; however, an unlabeled version must also be submitted for documentation purposes.* <br>
+*2. Projects that meet the expected standards of quality and completeness may be selected for inclusion in the final publication shared with community partners.*
 
 ## Evaluation Rubric Statement
 
