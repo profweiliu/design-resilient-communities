@@ -82,7 +82,6 @@ In your response, you might consider:
 
 ### Format requirement
 
-- No more than one page (excluding references) 
 - Single-spaced, with 1-inch margins on all sides
 - Times New Roman in 12 point or similar 
 - [APA Citation Guide (WL's cheat sheet)]({{ site.baseurl }}/assets/pdfs/apaguidewl.pdf), [APA Citation Guide by OU Writing Center](https://www.ou.edu/content/dam/writingcenter/docs/writing-guides/APA-citation-guide.pdf)
