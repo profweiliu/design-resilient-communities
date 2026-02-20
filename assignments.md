@@ -99,7 +99,7 @@ Assignment 3 is due on **Wednesday, Feburary 25 at 11:59 PM**.
 
 Working in your assigned groups, develop a clear and focused design direction for Market Square. This assignment is intended to establish your project priorities and overall spatial strategy before advancing into more detailed design development.
 
-As a group, identify the key priorities that will guide your proposal for Market Square. These priorities must be grounded in the Community Goals listed on the Final Project page. Then, write a concise 2–3 sentence thesis statement that clearly articulates your design intent. Your statement should address questions such as: What is the primary role of Market Square? What problem(s) is it addressing? What spatial or environmental strategy defines your approach?
+As a group, identify the key priorities that will guide your proposal for Market Square. These priorities must be grounded in the [Community Goals](https://profweiliu.com/design-resilient-communities/project/#community-goals) listed on the Final Project page. Then, write a concise 2–3 sentence thesis statement that clearly articulates your design intent. Your statement should address questions such as: What is the primary role of Market Square? What problem(s) is it addressing? What spatial or environmental strategy defines your approach?
 
 Present your design direction through a concept plan in the form of a bubble diagram. The diagram should clearly communicate spatial organization and relationships. It may include: <br>
 - Major spatial zones (e.g., seating areas, vendor zones, staging/performance space, flexible activity areas, stationary gathering areas)
