@@ -281,9 +281,6 @@ Goals for this charrette include:
 
 Each team will create a one-page Resilience Cheat Sheet that translates two selected City Resilience Framework goals into three design strategies and measurable performance indicators at three scales: city/community, neighborhood/district, and block/street/building. For example, how a city might support safe and affordable housing through policy and investment, how a neighborhood might strengthen sustainable food access through local systems and services, and how block- or street-level design can improve public safety through the built environment. 
 
-**Not sure about the difference between a strategy and a performance measure?** <br>
-A strategy is the action taken to achieve a goal, while a performance measure is the way success is evaluated or quantified. For example, to improve walkability, a strategy might be building shaded sidewalks, while the corresponding performance measure could be achieving 80% sidewalk shading coverage within 10 years.
-
 **City Resilience Framework (4 Dimensions and 22 Goals)** 
 
 Health & Wellbeing
