@@ -10,7 +10,7 @@ title: Charrette
 {% include course_header.html %}
 ![Resilient Durant Charrette](/assets/images/poster.png)
 # Resilient Durant: <br> A Multi-Scalar Resilience Framework
-   [Download the Reader | Available Soon](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBQK7w71n5NRKT4fU__FezAAbkHSvFtfzKkVmqceQ_OWEg?e=xMZzqy) <br>
+   [Download the Reader](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBQK7w71n5NRKT4fU__FezAAbkHSvFtfzKkVmqceQ_OWEg?e=xMZzqy) <br>
 {:.no_toc}
 
 ---
