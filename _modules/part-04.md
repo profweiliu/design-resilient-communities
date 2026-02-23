@@ -7,6 +7,7 @@ title: Module 3 - Collaborative Design
 
 Feb 23
 : **Lecture: Design Charrettes for Resilient Communities** <br>
+  : [Slides](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQB9x3JDzRuoSKtxy7BOAu70ASaYPmNCHwiZDZnoiYNFQEk?e=n5Gw3H) <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 6. Condon.(2007). Design Charrettes. for Sustainable Communities](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBuL6l4WG9nSpZVQxFnDJS1ASe6zh2w8dw0zQ-_bv2B3FY?e=Hvrffq){: .citation}  <br>
 **OPTIONAL**{: .readings .readings-optional }[Case Study. Condon.(2007). Design Charrettes. for Sustainable Communities](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAWbCKpAM5kQJCm7bOw4fN1ATRG9JVykRrFSLX9yVrqnNE?e=O3t2oc){: .citation}  <br>
 
