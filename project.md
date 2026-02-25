@@ -76,3 +76,4 @@ In Durant, history and progress move hand in hand—honoring our past while buil
 [**Durant Data Infographics**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgDXiB1b6Rl7TqTzEHKDD_yGAY9oOwteKKb9dKXJ3Vl1sXM?e=cODzkl)<br>
 [**AARP Walk Audit, Durnat, Oklahoma**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAWpBXUEXRPQJmyyj4VQWUVAWzMcwpmZKT2GJLibpXoRLs?e=3pA7qo) <br>
 [**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
+[**Stakeholder Interview Notes**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCNVIwsZ5h9RpT_vg8HE7mhAejMao6JRvw-GuvHvZfv9ak?e=0GQqra)
