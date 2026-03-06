@@ -444,6 +444,8 @@ These materials are not strictly limited to the list above; students may bring a
 [**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
 [**Bronco Logistics Unlimited Business Plan**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQBFajuua1mLTK-29IMypYHQASVHLhrJxBsKNyrRVMup0AE?e=dffbU8) <br>
 [**Southeastern Oklahoma State University Campus Master Plan**](https://www.se.edu/campus-master-plan/) 
+[**Base Maps**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgCo96UMBVm4R6Su3Mr4vqMCAcFps7EWmF-oX9N6V89d30Q?e=rlpN1m) 
+[**Walking, Jogging and Running Heat Map**](https://sooners-my.sharepoint.com/:i:/g/personal/wliu_ou_edu/IQC8XgLgLwCyTK6ySivik6EZAevqZLia073QxM7ais2UNPY?e=d9B3gM) 
 
 ---
 
