@@ -6,7 +6,7 @@ title: Module 5 - Adaptation
 Mar 30
 : **Lecture: Designing for Climate Impacts** <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 4 and 5. Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL){: .citation}  <br>
-**OPTIONAL**{: .readings .readings-optional }[Chapter 6. Coaffee & Lee. (2016). Urban Resilience: Planning for Risk, Crisis and Uncertainty](TBD){: .citation}  <br>
+**OPTIONAL**{: .readings .readings-optional }[Chapter 6. Coaffee & Lee. (2016). Urban Resilience: Planning for Risk, Crisis and Uncertainty](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDpwdvAylLOR4fJEdv5xhqVAU-Hg7KcA6dtSLJD39WL7ME?e=EfGg9X){: .citation}  <br>
 
 Apr 1
 : **Lab 7: Group Work** <br>
@@ -24,7 +24,8 @@ Apr 3
 Apr 6
 : **Lecture: Social & Community Resilience** <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 3. Newman, Beatley, & Boyer. (2017). Resilient Cities: Overcoming Fossil Fuel Dependence (2nd ed.)](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmtW7BpILgRpKPqOBE8RtfAc0pVxQKDm_v89yNMfZojkQ?e=UcPDQL){: .citation}  <br>
-**OPTIONAL**{: .readings .readings-optional }[Chapter 2 & 3. Montgomery. (2013). Happy City: Transforming Our Lives Through Urban Design](TBD){: .citation}  <br>
+**OPTIONAL**{: .readings .readings-optional }[Chapter 2. Montgomery. (2013). Happy City: Transforming Our Lives Through Urban Design](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDV_gT1Tju6Q7leea0KwqjZARp_hdYnDocr4KK7khjIN0E?e=HOykrn){: .citation}  <br>
+**OPTIONAL**{: .readings .readings-optional }[Chapter 3. Montgomery. (2013). Happy City: Transforming Our Lives Through Urban Design](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCNxJXcYJyiTa7AtL7ULpTbAdYDhTsN0BhXQKsOs6hmDZU?e=8eMGf9){: .citation}  <br>
 
 Apr 8
 : **Lab 8: Group Work** <br>
