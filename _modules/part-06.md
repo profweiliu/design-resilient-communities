@@ -24,7 +24,7 @@ Apr 24
 Apr 27
 : **Lecture: Building Resilient Communities** <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 3. Coyle. (2011). Sustainable and Resilient Communities](TBD){: .citation}  <br>
-**OPTIONAL**{: .readings .readings-optional }[Chapter 5. Mukim & Roberts. (2023). Making Cities Green, Resilient, and Inclusive in a Changing Climate](TBD){: .citation}  <br>
+**OPTIONAL**{: .readings .readings-optional }[Chapter 5. Mukim & Roberts. (2023). Making Cities Green, Resilient, and Inclusive in a Changing Climate](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAV4-ITCCzqQZqonzBRqgIIARHz0zyaAlEWvMe-BLztZaY?e=xPJ91I){: .citation}  <br>
 
 Apr 29
 : **Lab 11: Group Work** <br>
