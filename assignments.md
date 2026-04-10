@@ -119,4 +119,27 @@ The diagram should emphasize clarity, hierarchy, and logic rather than graphic e
 
 Assignment 4 is due on **Wednesday, April 1 at 11:59 PM**. 
 
+## Assignment 5 Master Plan
+
+### Task
+
+Working in your assigned groups, develop a detailed master plan for Market Square based on your approved concept plan (bubble diagram). This assignment translates your design direction into a spatially defined master plan with dimensions, clear organization, and articulated design intent.
+
+All major elements in your plan must be designed and labeled with appropriate and realistic dimensions, including but not limited to:
+- Pathways (primary, secondary, service)
+- Seating areas and furniture layouts
+- Activity zones (e.g., vendor areas, amphitheater, splash pad, fountain, lawn, flex space)
+- Landscape features (e.g., tree canopy, planting zones, stormwater features)
+
+For each major element, provide at least one precedent image to support your design intent.
+
+### Format requirement
+
+- Master Plan (digital or hand-drawn; must be clearly legible)
+- Annotated Design Precedents (images with short explanations; compile all precedents into a single PDF)
+
+### Submission Deadline
+
+Assignment 5 is due on **Wednesday, April 15 at 11:59 PM**. 
+
 {% include course_footer.html %}
