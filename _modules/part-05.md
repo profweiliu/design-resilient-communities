@@ -50,6 +50,7 @@ Apr 13
 Apr 15
 : **Lab 9: Group Work** <br>
 : **ASSIGNMENT 5 DUE AT 11:59 PM**{: .label .label-red } <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-5-master-plan) <br>
 
 Apr 17
 : **Resilient Cities Series #7** <br>
