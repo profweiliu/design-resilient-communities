@@ -35,12 +35,13 @@ May 1
 
 
 
-May 7
+May 6
 : **Final Project Presentation** <br> 
     <!--: [Project Presentation Instruction]({{ site.baseurl }}/projects/#draft-work-presentation)-->
 **Final Project Presentation DUE 8 AM**{: .label .label-red } <br> 
+**Location & Time: Gould Hall 390, 11 AM - 12:30 PM**{: .label .label-red } <br> 
 
-May 11
+May 12
 : **Final Project Submission** <br>
     <!--: [Project Submission Instruction]({{ site.baseurl }}/projects/#final-delivery)-->
 : **Final Project DUE 11:59 PM**{: .label .label-red } <br> 
