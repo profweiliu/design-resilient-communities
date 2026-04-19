@@ -142,4 +142,39 @@ For each major element, provide at least one precedent image to support your des
 
 Assignment 5 is due on **Wednesday, April 15 at 11:59 PM**. 
 
+## Assignment 6 Position Paper
+
+### Task
+
+
+Write a concise position paper that critically reflects on your evolving understanding of resilient communities (or resilient design), grounded in your own disciplinary perspective and design experience. 
+
+Your paper should address the following:
+1. Your position (core argument)
+    - What is your interpretation of the subject?
+    - How does this differ from (or expand upon) your thinking at the beginning of the semester (Assignment 1)?
+1. Reflect on what shaped your thinking, such as:
+    - Lectures and resilient frameworks
+    - Resilient Durant Charrette
+    - Stakeholder interview
+    - Case study precedents
+    - Market Square design process
+1. Propose ONE idea, principle, or critique that go beyond what was taught in class, for example:
+    - A new way to think about resilience
+    - A critique of common "resilient design" approaches
+    - A strategy you believe is underutilized or misunderstood
+    - A concept you would carry into future projects or practice
+
+### Format requirement
+
+- No less than 500 words (excluding references) 
+- Single-spaced, with 1-inch margins on all sides
+- Times New Roman in 12 point or similar 
+- [APA Citation Guide (WL's cheat sheet)]({{ site.baseurl }}/assets/pdfs/apaguidewl.pdf), [APA Citation Guide by OU Writing Center](https://www.ou.edu/content/dam/writingcenter/docs/writing-guides/APA-citation-guide.pdf)
+- Microsoft Word or a Word compatible file (.doc or .docx)
+
+### Submission Deadline
+
+Assignment 5 is due on **Wednesday, April 15 at 11:59 PM**. 
+
 {% include course_footer.html %}
