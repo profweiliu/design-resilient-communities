@@ -175,6 +175,6 @@ Your paper should address the following:
 
 ### Submission Deadline
 
-Assignment 5 is due on **Wednesday, April 15 at 11:59 PM**. 
+Assignment 6 is due on **Wednesday, April 29 at 11:59 PM**. 
 
 {% include course_footer.html %}
