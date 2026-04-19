@@ -147,7 +147,7 @@ Assignment 5 is due on **Wednesday, April 15 at 11:59 PM**.
 ### Task
 
 
-Write a concise position paper that critically reflects on your evolving understanding of resilient communities (or resilient design), grounded in your own disciplinary perspective and design experience. 
+Write a position paper that critically reflects on your evolving understanding of resilient communities (or resilient design), grounded in your own disciplinary perspective and design experience. 
 
 Your paper should address the following:
 1. Your position (core argument)
