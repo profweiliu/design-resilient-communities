@@ -79,4 +79,4 @@ In Durant, history and progress move hand in hand—honoring our past while buil
 [**Stakeholder Interview Notes**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCNVIwsZ5h9RpT_vg8HE7mhAejMao6JRvw-GuvHvZfv9ak?e=0GQqra) <br>
 [**Site Visit Photos (Sept. 2025)**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgD_jeql3H2STKm40zpSAnWwAe6KSasJcecUg3ScmiMRL3Y?e=ButqcX) <br>
 [**Ryan's Vision (for your reference)**](https://sooners-my.sharepoint.com/:i:/g/personal/wliu_ou_edu/IQCjUygH31HiS7hsot-wGGKYAb3krMWcnXbGP4k6YejyoDc?e=tPnNga) <br>
-[**Market Square Resilient Framework Template)**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQC6VZIaIQY8TZ_rZ6rpfPGDAZM3EYn1C2vcpKplxUU1wlc?e=QsmOLr)
+[**Market Square Resilient Framework Template**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQC6VZIaIQY8TZ_rZ6rpfPGDAZM3EYn1C2vcpKplxUU1wlc?e=QsmOLr)
